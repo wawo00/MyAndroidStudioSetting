@@ -1,0 +1,12 @@
+<templateSet group="roygroup">
+  <template name="mcmt" value="/**&#10; * @method  $methodName$&#10; * @description 描述一下方法的作用&#10; * @date: $date$ $time$&#10; * @author: wanlei&#10; * @param $param$&#10; * @return $return$&#10; */" description="方法注解模板" toReformat="false" toShortenFQNames="true">
+    <variable name="methodName" expression="methodName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <variable name="param" expression="methodParameters()" defaultValue="" alwaysStopAt="false" />
+    <variable name="return" expression="methodReturnType()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
