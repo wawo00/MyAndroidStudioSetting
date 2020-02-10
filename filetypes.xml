@@ -5,6 +5,7 @@
       <mapping ext="lua" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="aar" type="PLAIN_TEXT" />
+      <mapping ext="fire" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
