@@ -6,6 +6,7 @@
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="aar" type="PLAIN_TEXT" />
       <mapping ext="fire" type="PLAIN_TEXT" />
+      <mapping ext="preperties" type="Properties" />
     </extensionMap>
   </component>
 </application>
