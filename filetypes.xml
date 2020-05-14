@@ -5,6 +5,7 @@
       <mapping ext="lua" type="PLAIN_TEXT" />
       <mapping ext="aar" type="PLAIN_TEXT" />
       <mapping ext="fire" type="PLAIN_TEXT" />
+      <mapping ext="shaders_cache" type="PLAIN_TEXT" />
       <mapping ext="preperties" type="Properties" />
     </extensionMap>
   </component>
