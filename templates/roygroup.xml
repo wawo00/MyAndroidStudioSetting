@@ -1,0 +1,21 @@
+<templateSet group="roygroup">
+  <template name="cmt" value="/**     &#10;  * &#10;  * @ProjectName:    $PROJECT_NAME$&#10;  * @Package:        $PACKAGE_NAME$&#10;  * @ClassName:      $NAME$&#10;  * @Description:     java类作用描述 &#10;  * @Author:         $author$&#10;  * @CreateDate:     $DATE$ $TIME$&#10;  * @UpdateUser:     $update_author$&#10;  * @UpdateDate:     $DATE$ $TIME$&#10;  * @UpdateRemark:   更新说明：&#10;  * @Version:        1.0&#10; */" description="" toReformat="false" toShortenFQNames="true" useStaticImport="true">
+    <variable name="PROJECT_NAME" expression="" defaultValue="PSSDK" alwaysStopAt="true" />
+    <variable name="PACKAGE_NAME" expression="currentPackage()" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <variable name="author" expression="user()" defaultValue="WanLei" alwaysStopAt="true" />
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="TIME" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <variable name="update_author" expression="user()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="mcmt" value="/**&#10; * @description 描述一下方法的作用&#10; * @param $param$&#10; * @return $return$&#10; */" description="方法注解模板" toReformat="false" toShortenFQNames="true">
+    <variable name="param" expression="methodParameters()" defaultValue="" alwaysStopAt="true" />
+    <variable name="return" expression="methodReturnType()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
