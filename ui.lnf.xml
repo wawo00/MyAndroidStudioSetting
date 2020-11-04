@@ -1,5 +1,6 @@
 <application>
   <component name="UISettings">
+    <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
     <option name="PRESENTATION_MODE_FONT_SIZE" value="20" />
     <option name="SORT_LOOKUP_ELEMENTS_LEXICOGRAPHICALLY" value="true" />
   </component>
