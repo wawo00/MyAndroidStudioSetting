@@ -1,5 +1,14 @@
 <application>
   <component name="HMSToolKitPlugin">
+    <option name="usedKitsMap">
+      <map>
+        <entry key="46657fb0">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="userId" value="28bfe9c6-309c-4e10-bd6f-21add92fe230" />
   </component>
 </application>
