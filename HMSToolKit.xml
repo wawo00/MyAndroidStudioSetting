@@ -10,6 +10,7 @@
         </LocalAgreement>
       </list>
     </option>
+    <option name="logAnalyzerSwitch" value="false" />
     <option name="usedKitsMap">
       <map>
         <entry key="46657fb0">
