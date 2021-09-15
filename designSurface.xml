@@ -6,6 +6,7 @@
         <entry key="app/src/main/res/layout/activity_game_detail.xml" value="0.13925019127773527" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.21240942028985507" />
         <entry key="app/src/main/res/layout/dialog_exchangecard.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/dialog_retrieveaccount.xml" value="0.2598958333333333" />
         <entry key="app/src/main/res/layout/fragment_shopgift.xml" value="0.20677083333333332" />
         <entry key="app/src/main/res/layout/fragment_status_loader.xml" value="0.264945652173913" />
         <entry key="app/src/main/res/layout/layout_content_view.xml" value="0.264945652173913" />
