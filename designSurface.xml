@@ -3,6 +3,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="../../../Library/Android/sdk/platforms/android-29/data/res/layout/simple_list_item_2.xml" value="0.264945652173913" />
+        <entry key="../../../Library/Android/sdk/platforms/android-29/data/res/layout/test_list_item.xml" value="0.11875" />
         <entry key="app/src/main/res/drawable/normal_round_btn_orange_to_gray_selector.xml" value="0.27708333333333335" />
         <entry key="app/src/main/res/drawable/shape_rounbtn_graybg.xml" value="0.27708333333333335" />
         <entry key="app/src/main/res/layout/activity_game_detail.xml" value="0.1514690982776089" />
@@ -28,6 +30,7 @@
         <entry key="app/src/main/res/layout/shopgift_amazon_item.xml" value="0.33" />
         <entry key="app/src/main/res/layout/shopgift_googleplay_item.xml" value="0.25" />
         <entry key="app/src/main/res/layout/shophistory_item.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/test_adapter_item_tag.xml" value="0.22" />
         <entry key="app/src/main/res/layout/view_content_error.xml" value="0.20677083333333332" />
       </map>
     </option>
