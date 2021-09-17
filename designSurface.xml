@@ -6,11 +6,12 @@
         <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="../../../Library/Android/sdk/platforms/android-29/data/res/layout/simple_list_item_2.xml" value="0.264945652173913" />
         <entry key="../../../Library/Android/sdk/platforms/android-29/data/res/layout/test_list_item.xml" value="0.11875" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.242578125" />
         <entry key="app/src/main/res/drawable/normal_round_btn_orange_to_gray_selector.xml" value="0.27708333333333335" />
         <entry key="app/src/main/res/drawable/shape_rounbtn_graybg.xml" value="0.27708333333333335" />
         <entry key="app/src/main/res/layout/activity_game_detail.xml" value="0.1514690982776089" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.1514690982776089" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1514690982776089" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.8935185185185185" />
         <entry key="app/src/main/res/layout/activity_reward.xml" value="0.1514690982776089" />
         <entry key="app/src/main/res/layout/activity_setting.xml" value="0.1514690982776089" />
         <entry key="app/src/main/res/layout/activity_splash.xml" value="0.16" />
