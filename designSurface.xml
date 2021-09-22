@@ -31,6 +31,7 @@
         <entry key="app/src/main/res/layout/dialog_exchangehistory_cardid.xml" value="0.3590163934426229" />
         <entry key="app/src/main/res/layout/dialog_retrieveaccount.xml" value="0.2598958333333333" />
         <entry key="app/src/main/res/layout/dialog_verifyemail_cardid.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/fragment_game.xml" value="0.1157230298393267" />
         <entry key="app/src/main/res/layout/fragment_playing.xml" value="0.1767983789260385" />
         <entry key="app/src/main/res/layout/fragment_profile.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_shop.xml" value="0.1767983789260385" />
