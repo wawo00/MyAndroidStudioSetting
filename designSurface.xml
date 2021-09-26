@@ -60,6 +60,8 @@
         <entry key="app/src/main/res/layout/view_content_error.xml" value="0.20677083333333332" />
         <entry key="app/src/main/res/layout/view_content_status.xml" value="0.2192622950819672" />
         <entry key="demo/src/main/res/layout/activity_simple_video_view.xml" value="0.20199275362318841" />
+        <entry key="demo/src/main/res/layout/item_two.xml" value="0.1" />
+        <entry key="demo/src/main/res/layout/layout_rv_content.xml" value="0.1" />
         <entry key="sdk/src/main/res/layout/aas_activity_user_manager_layout.xml" value="0.1" />
         <entry key="sdk/src/main/res/layout/aas_fragment_user_account_manager.xml" value="0.19114583333333332" />
         <entry key="sdk/src/main/res/layout/aas_fragment_user_manager.xml" value="0.22" />
