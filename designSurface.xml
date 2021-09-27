@@ -8,12 +8,19 @@
         <entry key="../../../Library/Android/sdk/platforms/android-29/data/res/layout/test_list_item.xml" value="0.11875" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.242578125" />
         <entry key="app/src/main/res/drawable/normal_round_btn_orange_to_gray_selector.xml" value="0.27708333333333335" />
-        <entry key="app/src/main/res/drawable/normal_text_gray_to_orange.xml" value="0.20078125" />
+        <entry key="app/src/main/res/drawable/normal_selected_text_black_to_orange.xml" value="0.3223958333333333" />
+        <entry key="app/src/main/res/drawable/normal_text_black_to_orange.xml" value="0.3223958333333333" />
+        <entry key="app/src/main/res/drawable/normal_text_gray_to_orange.xml" value="0.3223958333333333" />
+        <entry key="app/src/main/res/drawable/normal_text_orange_to_gray.xml" value="0.3223958333333333" />
+        <entry key="app/src/main/res/drawable/round_indicator_bg.xml" value="0.3223958333333333" />
+        <entry key="app/src/main/res/drawable/selector_round_btn_green_to_gray.xml" value="0.3223958333333333" />
         <entry key="app/src/main/res/drawable/shape_circle_white.xml" value="0.198828125" />
+        <entry key="app/src/main/res/drawable/shape_edittext_round.xml" value="0.3223958333333333" />
         <entry key="app/src/main/res/drawable/shape_halfround.xml" value="0.20078125" />
         <entry key="app/src/main/res/drawable/shape_red_radius.xml" value="0.20078125" />
-        <entry key="app/src/main/res/drawable/shape_rounbtn_graybg.xml" value="0.27708333333333335" />
-        <entry key="app/src/main/res/drawable/shape_round_ff.xml" value="0.20078125" />
+        <entry key="app/src/main/res/drawable/shape_rounbtn_graybg.xml" value="0.3223958333333333" />
+        <entry key="app/src/main/res/drawable/shape_round.xml" value="0.3223958333333333" />
+        <entry key="app/src/main/res/drawable/shape_round_ff.xml" value="0.3223958333333333" />
         <entry key="app/src/main/res/layout/activity_game_detail.xml" value="0.18" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.3072916666666667" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.169921875" />
@@ -32,6 +39,7 @@
         <entry key="app/src/main/res/layout/dialog_exchangehistory_cardid.xml" value="0.3590163934426229" />
         <entry key="app/src/main/res/layout/dialog_retrieveaccount.xml" value="0.2598958333333333" />
         <entry key="app/src/main/res/layout/dialog_verifyemail_cardid.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/fragment_edittext_style.xml" value="0.33" />
         <entry key="app/src/main/res/layout/fragment_game.xml" value="0.1157230298393267" />
         <entry key="app/src/main/res/layout/fragment_gamerewardhistory.xml" value="0.20662568306010928" />
         <entry key="app/src/main/res/layout/fragment_playing.xml" value="0.21345628415300547" />
@@ -39,6 +47,7 @@
         <entry key="app/src/main/res/layout/fragment_shop.xml" value="0.1767983789260385" />
         <entry key="app/src/main/res/layout/fragment_shopgift.xml" value="0.20677083333333332" />
         <entry key="app/src/main/res/layout/fragment_status_loader.xml" value="0.264945652173913" />
+        <entry key="app/src/main/res/layout/fragment_xui_popup.xml" value="0.290625" />
         <entry key="app/src/main/res/layout/game_item.xml" value="0.22" />
         <entry key="app/src/main/res/layout/gamequest_item_bigcoin.xml" value="0.15027322404371585" />
         <entry key="app/src/main/res/layout/gamequest_item_coming.xml" value="0.15027322404371585" />
