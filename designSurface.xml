@@ -11,7 +11,7 @@
         <entry key="app/src/main/res/drawable/normal_selected_text_black_to_orange.xml" value="0.3223958333333333" />
         <entry key="app/src/main/res/drawable/normal_text_black_to_orange.xml" value="0.3223958333333333" />
         <entry key="app/src/main/res/drawable/normal_text_gray_to_orange.xml" value="0.3223958333333333" />
-        <entry key="app/src/main/res/drawable/normal_text_orange_to_gray.xml" value="0.3223958333333333" />
+        <entry key="app/src/main/res/drawable/normal_text_orange_to_gray.xml" value="0.3776041666666667" />
         <entry key="app/src/main/res/drawable/round_indicator_bg.xml" value="0.3223958333333333" />
         <entry key="app/src/main/res/drawable/selector_round_btn_green_to_gray.xml" value="0.3223958333333333" />
         <entry key="app/src/main/res/drawable/shape_circle_white.xml" value="0.198828125" />
@@ -22,7 +22,7 @@
         <entry key="app/src/main/res/drawable/shape_round.xml" value="0.3223958333333333" />
         <entry key="app/src/main/res/drawable/shape_round_ff.xml" value="0.3223958333333333" />
         <entry key="app/src/main/res/layout/activity_game_detail.xml" value="0.18" />
-        <entry key="app/src/main/res/layout/activity_login.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.2578125" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.169921875" />
         <entry key="app/src/main/res/layout/activity_playing.xml" value="0.20199275362318841" />
         <entry key="app/src/main/res/layout/activity_register.xml" value="0.24140625" />
