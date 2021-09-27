@@ -40,12 +40,12 @@
         <entry key="app/src/main/res/layout/dialog_retrieveaccount.xml" value="0.2598958333333333" />
         <entry key="app/src/main/res/layout/dialog_verifyemail_cardid.xml" value="0.33" />
         <entry key="app/src/main/res/layout/fragment_edittext_style.xml" value="0.33" />
-        <entry key="app/src/main/res/layout/fragment_game.xml" value="0.1157230298393267" />
+        <entry key="app/src/main/res/layout/fragment_game.xml" value="0.17046605876393112" />
         <entry key="app/src/main/res/layout/fragment_gamerewardhistory.xml" value="0.20662568306010928" />
         <entry key="app/src/main/res/layout/fragment_playing.xml" value="0.21345628415300547" />
         <entry key="app/src/main/res/layout/fragment_profile.xml" value="0.195703125" />
-        <entry key="app/src/main/res/layout/fragment_shop.xml" value="0.1767983789260385" />
-        <entry key="app/src/main/res/layout/fragment_shopgift.xml" value="0.20677083333333332" />
+        <entry key="app/src/main/res/layout/fragment_shop.xml" value="0.4071969696969697" />
+        <entry key="app/src/main/res/layout/fragment_shopgift.xml" value="0.33" />
         <entry key="app/src/main/res/layout/fragment_status_loader.xml" value="0.264945652173913" />
         <entry key="app/src/main/res/layout/fragment_xui_popup.xml" value="0.290625" />
         <entry key="app/src/main/res/layout/game_item.xml" value="0.22" />
@@ -57,6 +57,8 @@
         <entry key="app/src/main/res/layout/item_profile_coinrecord_default.xml" value="0.11202185792349727" />
         <entry key="app/src/main/res/layout/item_profile_coinrecord_exchanged.xml" value="0.15915300546448088" />
         <entry key="app/src/main/res/layout/item_profile_coinrecord_frozen.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/item_shopgift_amazon.xml" value="1.0" />
+        <entry key="app/src/main/res/layout/item_shopgift_googleplay.xml" value="1.0" />
         <entry key="app/src/main/res/layout/item_three.xml" value="0.175" />
         <entry key="app/src/main/res/layout/item_two.xml" value="0.20662568306010928" />
         <entry key="app/src/main/res/layout/itme_one.xml" value="0.20662568306010928" />
