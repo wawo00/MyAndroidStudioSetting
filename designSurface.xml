@@ -54,9 +54,11 @@
         <entry key="app/src/main/res/layout/gamequest_item_default.xml" value="0.33" />
         <entry key="app/src/main/res/layout/gamequest_item_progress.xml" value="0.25" />
         <entry key="app/src/main/res/layout/image_item.xml" value="0.18439716312056736" />
+        <entry key="app/src/main/res/layout/item_msg.xml" value="0.33" />
         <entry key="app/src/main/res/layout/item_profile_coinrecord_default.xml" value="0.11202185792349727" />
         <entry key="app/src/main/res/layout/item_profile_coinrecord_exchanged.xml" value="0.15915300546448088" />
         <entry key="app/src/main/res/layout/item_profile_coinrecord_frozen.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/item_settings.xml" value="0.161231884057971" />
         <entry key="app/src/main/res/layout/item_shopgift_amazon.xml" value="1.0" />
         <entry key="app/src/main/res/layout/item_shopgift_googleplay.xml" value="1.0" />
         <entry key="app/src/main/res/layout/item_three.xml" value="0.175" />
@@ -73,6 +75,11 @@
         <entry key="app/src/main/res/layout/test_adapter_item_tag.xml" value="0.22" />
         <entry key="app/src/main/res/layout/view_content_error.xml" value="0.20677083333333332" />
         <entry key="app/src/main/res/layout/view_content_status.xml" value="0.2192622950819672" />
+        <entry key="appx/src/main/res/drawable/shape_red_radius.xml" value="0.1" />
+        <entry key="appx/src/main/res/drawable/shape_round_ff.xml" value="0.1" />
+        <entry key="appx/src/main/res/layout/activity_tab.xml" value="0.1" />
+        <entry key="appx/src/main/res/layout/activity_tab_no_view_pager.xml" value="0.18439716312056736" />
+        <entry key="appx/src/main/res/layout/item_msg.xml" value="0.1" />
         <entry key="demo/src/main/res/layout/activity_simple_video_view.xml" value="0.20199275362318841" />
         <entry key="demo/src/main/res/layout/item_two.xml" value="0.1" />
         <entry key="demo/src/main/res/layout/layout_rv_content.xml" value="0.1" />
