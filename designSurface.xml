@@ -32,7 +32,7 @@
         <entry key="app/src/main/res/layout/activity_playing.xml" value="0.20199275362318841" />
         <entry key="app/src/main/res/layout/activity_register.xml" value="0.24140625" />
         <entry key="app/src/main/res/layout/activity_reward.xml" value="0.189453125" />
-        <entry key="app/src/main/res/layout/activity_setting.xml" value="0.16086065573770492" />
+        <entry key="app/src/main/res/layout/activity_setting.xml" value="0.2557291666666667" />
         <entry key="app/src/main/res/layout/activity_shop.xml" value="0.18954918032786885" />
         <entry key="app/src/main/res/layout/activity_splash.xml" value="0.201171875" />
         <entry key="app/src/main/res/layout/app_gamedetial_top.xml" value="0.19427083333333334" />
@@ -50,7 +50,7 @@
         <entry key="app/src/main/res/layout/fragment_jptabbar.xml" value="0.259963768115942" />
         <entry key="app/src/main/res/layout/fragment_playing.xml" value="0.21345628415300547" />
         <entry key="app/src/main/res/layout/fragment_profile.xml" value="0.195703125" />
-        <entry key="app/src/main/res/layout/fragment_shop.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_shop.xml" value="0.2557291666666667" />
         <entry key="app/src/main/res/layout/fragment_shopgift.xml" value="0.33" />
         <entry key="app/src/main/res/layout/fragment_status_loader.xml" value="0.264945652173913" />
         <entry key="app/src/main/res/layout/fragment_xui_popup.xml" value="0.290625" />
@@ -65,11 +65,11 @@
         <entry key="app/src/main/res/layout/item_profile_coinrecord_default.xml" value="0.20677083333333332" />
         <entry key="app/src/main/res/layout/item_profile_coinrecord_exchanged.xml" value="0.20677083333333332" />
         <entry key="app/src/main/res/layout/item_profile_coinrecord_frozen.xml" value="0.5" />
-        <entry key="app/src/main/res/layout/item_settings.xml" value="0.20677083333333332" />
+        <entry key="app/src/main/res/layout/item_settings.xml" value="0.2557291666666667" />
         <entry key="app/src/main/res/layout/item_shopgift_amazon.xml" value="1.0" />
         <entry key="app/src/main/res/layout/item_shopgift_googleplay.xml" value="1.0" />
         <entry key="app/src/main/res/layout/item_shophistory.xml" value="0.67" />
-        <entry key="app/src/main/res/layout/item_tabvpflowlayout.xml" value="0.184375" />
+        <entry key="app/src/main/res/layout/item_tabvpflowlayout.xml" value="0.1984375" />
         <entry key="app/src/main/res/layout/item_three.xml" value="0.175" />
         <entry key="app/src/main/res/layout/item_two.xml" value="0.20662568306010928" />
         <entry key="app/src/main/res/layout/itme_one.xml" value="0.20662568306010928" />
