@@ -68,7 +68,7 @@
         <entry key="app/src/main/res/layout/image_item.xml" value="0.18439716312056736" />
         <entry key="app/src/main/res/layout/item_game.xml" value="0.2557291666666667" />
         <entry key="app/src/main/res/layout/item_msg.xml" value="0.33" />
-        <entry key="app/src/main/res/layout/item_profile_coinrecord_deduct.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/item_profile_coinrecord_deduct.xml" value="0.2" />
         <entry key="app/src/main/res/layout/item_profile_coinrecord_default.xml" value="0.2942708333333333" />
         <entry key="app/src/main/res/layout/item_profile_coinrecord_exchanged.xml" value="0.2864583333333333" />
         <entry key="app/src/main/res/layout/item_profile_coinrecord_frozen.xml" value="0.67" />
