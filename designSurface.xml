@@ -29,6 +29,7 @@
         <entry key="app/src/main/res/drawable/shape_round_cementgray.xml" value="0.3515625" />
         <entry key="app/src/main/res/drawable/shape_round_ff.xml" value="0.3223958333333333" />
         <entry key="app/src/main/res/drawable/shape_round_historyexchange.xml" value="0.21354166666666666" />
+        <entry key="app/src/main/res/drawable/shape_roundnotbottom_lightpurple.xml" value="0.27760416666666665" />
         <entry key="app/src/main/res/layout/activity_game_detail.xml" value="0.33" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.33" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.22" />
@@ -70,8 +71,9 @@
         <entry key="app/src/main/res/layout/item_msg.xml" value="0.33" />
         <entry key="app/src/main/res/layout/item_profile_coinrecord_deduct.xml" value="0.2" />
         <entry key="app/src/main/res/layout/item_profile_coinrecord_default.xml" value="0.2942708333333333" />
+        <entry key="app/src/main/res/layout/item_profile_coinrecord_delivered.xml" value="0.33" />
         <entry key="app/src/main/res/layout/item_profile_coinrecord_exchanged.xml" value="0.2864583333333333" />
-        <entry key="app/src/main/res/layout/item_profile_coinrecord_frozen.xml" value="0.67" />
+        <entry key="app/src/main/res/layout/item_profile_coinrecord_frozen.xml" value="0.5" />
         <entry key="app/src/main/res/layout/item_settings.xml" value="0.3390625" />
         <entry key="app/src/main/res/layout/item_shopgift_amazon.xml" value="1.0" />
         <entry key="app/src/main/res/layout/item_shopgift_googleplay.xml" value="1.0" />
