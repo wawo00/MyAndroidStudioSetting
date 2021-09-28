@@ -64,6 +64,7 @@
         <entry key="app/src/main/res/layout/item_shopgift_amazon.xml" value="1.0" />
         <entry key="app/src/main/res/layout/item_shopgift_googleplay.xml" value="1.0" />
         <entry key="app/src/main/res/layout/item_shophistory.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/item_tabvpflowlayout.xml" value="0.184375" />
         <entry key="app/src/main/res/layout/item_three.xml" value="0.175" />
         <entry key="app/src/main/res/layout/item_two.xml" value="0.20662568306010928" />
         <entry key="app/src/main/res/layout/itme_one.xml" value="0.20662568306010928" />
