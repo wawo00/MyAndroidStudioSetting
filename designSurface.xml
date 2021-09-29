@@ -84,7 +84,8 @@
         <entry key="app/src/main/res/layout/item_three.xml" value="0.175" />
         <entry key="app/src/main/res/layout/item_two.xml" value="0.20662568306010928" />
         <entry key="app/src/main/res/layout/itme_one.xml" value="0.20662568306010928" />
-        <entry key="app/src/main/res/layout/itme_treeview_levelone.xml" value="0.27717391304347827" />
+        <entry key="app/src/main/res/layout/itme_treeview_levelone.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/itme_treeview_leveltwo.xml" value="0.33" />
         <entry key="app/src/main/res/layout/layout_content_view.xml" value="0.264945652173913" />
         <entry key="app/src/main/res/layout/menu_statelayout_fab.xml" value="0.21603260869565216" />
         <entry key="app/src/main/res/layout/popwindow_cirlceprogress_dailycoins.xml" value="0.25" />
