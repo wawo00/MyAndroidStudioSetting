@@ -60,9 +60,9 @@
         <entry key="app/src/main/res/layout/fragment_status_loader.xml" value="0.264945652173913" />
         <entry key="app/src/main/res/layout/fragment_xui_popup.xml" value="0.290625" />
         <entry key="app/src/main/res/layout/game_item.xml" value="0.25" />
-        <entry key="app/src/main/res/layout/gamequest_item_bigcoin.xml" value="0.15027322404371585" />
-        <entry key="app/src/main/res/layout/gamequest_item_coming.xml" value="0.15027322404371585" />
-        <entry key="app/src/main/res/layout/gamequest_item_default.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/gamequest_item_bigcoin.xml" value="0.2765625" />
+        <entry key="app/src/main/res/layout/gamequest_item_coming.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/gamequest_item_default.xml" value="0.5" />
         <entry key="app/src/main/res/layout/gamequest_item_progress.xml" value="0.33177083333333335" />
         <entry key="app/src/main/res/layout/header_profile_listview.xml" value="0.33645833333333336" />
         <entry key="app/src/main/res/layout/header_setting_listview.xml" value="0.5" />
