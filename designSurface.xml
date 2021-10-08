@@ -52,7 +52,7 @@
         <entry key="app/src/main/res/layout/dialog_retrieveaccount.xml" value="0.2598958333333333" />
         <entry key="app/src/main/res/layout/dialog_verifyemail_cardid.xml" value="0.33" />
         <entry key="app/src/main/res/layout/fragment_edittext_style.xml" value="0.33" />
-        <entry key="app/src/main/res/layout/fragment_game.xml" value="0.41513437057991515" />
+        <entry key="app/src/main/res/layout/fragment_game.xml" value="0.28177083333333336" />
         <entry key="app/src/main/res/layout/fragment_gameplay.xml" value="0.221875" />
         <entry key="app/src/main/res/layout/fragment_gamequest.xml" value="0.33177083333333335" />
         <entry key="app/src/main/res/layout/fragment_gamerewardhistory.xml" value="0.5" />
@@ -104,7 +104,7 @@
         <entry key="app/src/main/res/layout/test_adapter_item_tag.xml" value="0.22" />
         <entry key="app/src/main/res/layout/view_content_error.xml" value="0.20677083333333332" />
         <entry key="app/src/main/res/layout/view_content_status.xml" value="0.27717391304347827" />
-        <entry key="app/src/main/res/layout/view_dailycoins_circleprogress.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/view_dailycoins_circleprogress.xml" value="0.5" />
         <entry key="appsupport/src/main/res/drawable/ic_launcher_background.xml" value="0.28072916666666664" />
         <entry key="appsupport/src/main/res/drawable/shape_circle_white.xml" value="0.23229166666666667" />
         <entry key="appsupport/src/main/res/drawable/shape_rounbtn_graybg.xml" value="0.28072916666666664" />
@@ -120,6 +120,12 @@
         <entry key="demo/src/main/res/layout/activity_simple_video_view.xml" value="0.20199275362318841" />
         <entry key="demo/src/main/res/layout/item_two.xml" value="0.1" />
         <entry key="demo/src/main/res/layout/layout_rv_content.xml" value="0.1" />
+        <entry key="sdk/src/main/res/drawable/css_checkbox_text_selector.xml" value="0.1" />
+        <entry key="sdk/src/main/res/drawable/css_item_select_bg.xml" value="0.1" />
+        <entry key="sdk/src/main/res/drawable/normal_oval_mask_selector.xml" value="0.1" />
+        <entry key="sdk/src/main/res/drawable/normal_rectangle_mask_selector.xml" value="0.1" />
+        <entry key="sdk/src/main/res/drawable/normal_round_btn_white_gray_selector.xml" value="0.1" />
+        <entry key="sdk/src/main/res/drawable/normal_text_white_to_gray.xml" value="0.1" />
         <entry key="sdk/src/main/res/layout/aas_activity_user_manager_layout.xml" value="0.1" />
         <entry key="sdk/src/main/res/layout/aas_fragment_user_account_manager.xml" value="0.19114583333333332" />
         <entry key="sdk/src/main/res/layout/aas_fragment_user_manager.xml" value="0.22" />
