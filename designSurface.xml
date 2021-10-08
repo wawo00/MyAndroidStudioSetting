@@ -50,7 +50,7 @@
         <entry key="app/src/main/res/layout/dialog_retrieveaccount.xml" value="0.2598958333333333" />
         <entry key="app/src/main/res/layout/dialog_verifyemail_cardid.xml" value="0.33" />
         <entry key="app/src/main/res/layout/fragment_edittext_style.xml" value="0.33" />
-        <entry key="app/src/main/res/layout/fragment_game.xml" value="0.3307291666666667" />
+        <entry key="app/src/main/res/layout/fragment_game.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_gameplay.xml" value="0.221875" />
         <entry key="app/src/main/res/layout/fragment_gamequest.xml" value="0.33177083333333335" />
         <entry key="app/src/main/res/layout/fragment_gamerewardhistory.xml" value="0.5" />
@@ -102,7 +102,10 @@
         <entry key="app/src/main/res/layout/test_adapter_item_tag.xml" value="0.22" />
         <entry key="app/src/main/res/layout/view_content_error.xml" value="0.20677083333333332" />
         <entry key="app/src/main/res/layout/view_content_status.xml" value="0.27717391304347827" />
-        <entry key="appsupport/src/main/res/layout/activity_main.xml" value="0.67" />
+        <entry key="appsupport/src/main/res/drawable/ic_launcher_background.xml" value="0.28072916666666664" />
+        <entry key="appsupport/src/main/res/drawable/shape_circle_white.xml" value="0.23229166666666667" />
+        <entry key="appsupport/src/main/res/drawable/shape_rounbtn_graybg.xml" value="0.28072916666666664" />
+        <entry key="appsupport/src/main/res/layout/activity_main.xml" value="0.5" />
         <entry key="appsupport/src/main/res/layout/popwindow_cirlceprogress_dailycoins.xml" value="0.33" />
         <entry key="appx/src/main/res/drawable/shape_red_radius.xml" value="0.1" />
         <entry key="appx/src/main/res/drawable/shape_round_ff.xml" value="0.1" />
