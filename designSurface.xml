@@ -20,6 +20,7 @@
         <entry key="app/src/main/res/drawable/round_indicator_bg.xml" value="0.3223958333333333" />
         <entry key="app/src/main/res/drawable/selector_round_btn_green_to_gray.xml" value="0.3223958333333333" />
         <entry key="app/src/main/res/drawable/shape_circle_white.xml" value="0.198828125" />
+        <entry key="app/src/main/res/drawable/shape_circleprogress_unfoldview_rounbtn_graybg.xml" value="0.20208333333333334" />
         <entry key="app/src/main/res/drawable/shape_edittext_round.xml" value="0.3223958333333333" />
         <entry key="app/src/main/res/drawable/shape_halfround.xml" value="0.20078125" />
         <entry key="app/src/main/res/drawable/shape_red_radius.xml" value="0.20078125" />
@@ -50,7 +51,7 @@
         <entry key="app/src/main/res/layout/dialog_retrieveaccount.xml" value="0.2598958333333333" />
         <entry key="app/src/main/res/layout/dialog_verifyemail_cardid.xml" value="0.33" />
         <entry key="app/src/main/res/layout/fragment_edittext_style.xml" value="0.33" />
-        <entry key="app/src/main/res/layout/fragment_game.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_game.xml" value="0.41513437057991515" />
         <entry key="app/src/main/res/layout/fragment_gameplay.xml" value="0.221875" />
         <entry key="app/src/main/res/layout/fragment_gamequest.xml" value="0.33177083333333335" />
         <entry key="app/src/main/res/layout/fragment_gamerewardhistory.xml" value="0.5" />
