@@ -6,6 +6,7 @@
         <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="../../../Library/Android/sdk/platforms/android-29/data/res/layout/simple_list_item_2.xml" value="0.264945652173913" />
         <entry key="../../../Library/Android/sdk/platforms/android-29/data/res/layout/test_list_item.xml" value="0.11875" />
+        <entry key="../../../Library/Android/sdk/platforms/android-30/data/res/layout/simple_list_item_2.xml" value="0.21145833333333333" />
         <entry key="app/src/main/res/drawable/color_normal_gradient.xml" value="0.3026041666666667" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.242578125" />
         <entry key="app/src/main/res/drawable/normal_round_btn_orange_to_gray_selector.xml" value="0.27708333333333335" />
@@ -53,7 +54,7 @@
         <entry key="app/src/main/res/layout/fragment_gamequest.xml" value="0.33177083333333335" />
         <entry key="app/src/main/res/layout/fragment_gamerewardhistory.xml" value="0.5" />
         <entry key="app/src/main/res/layout/fragment_jptabbar.xml" value="0.259963768115942" />
-        <entry key="app/src/main/res/layout/fragment_playing.xml" value="0.21345628415300547" />
+        <entry key="app/src/main/res/layout/fragment_playing.xml" value="0.27445652173913043" />
         <entry key="app/src/main/res/layout/fragment_profile.xml" value="0.26510416666666664" />
         <entry key="app/src/main/res/layout/fragment_shop.xml" value="0.29393115942028986" />
         <entry key="app/src/main/res/layout/fragment_shopgift.xml" value="0.33" />
@@ -68,7 +69,9 @@
         <entry key="app/src/main/res/layout/header_setting_listview.xml" value="0.5" />
         <entry key="app/src/main/res/layout/image_item.xml" value="0.18439716312056736" />
         <entry key="app/src/main/res/layout/item_game.xml" value="0.2557291666666667" />
+        <entry key="app/src/main/res/layout/item_gamequest_bigcoin.xml" value="0.24547101449275363" />
         <entry key="app/src/main/res/layout/item_gamequest_coming.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/item_gamequest_default.xml" value="0.24547101449275363" />
         <entry key="app/src/main/res/layout/item_gamequest_holder.xml" value="0.2504528985507246" />
         <entry key="app/src/main/res/layout/item_msg.xml" value="0.33" />
         <entry key="app/src/main/res/layout/item_profile_coinrecord_deduct.xml" value="0.33" />
@@ -88,7 +91,7 @@
         <entry key="app/src/main/res/layout/itme_treeview_leveltwo.xml" value="0.33" />
         <entry key="app/src/main/res/layout/layout_content_view.xml" value="0.264945652173913" />
         <entry key="app/src/main/res/layout/menu_statelayout_fab.xml" value="0.21603260869565216" />
-        <entry key="app/src/main/res/layout/popwindow_cirlceprogress_dailycoins.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/popwindow_cirlceprogress_dailycoins.xml" value="0.67" />
         <entry key="app/src/main/res/layout/profile_listview_head.xml" value="0.247265625" />
         <entry key="app/src/main/res/layout/setting_listview_footer.xml" value="0.18" />
         <entry key="app/src/main/res/layout/shopgift_amazon_item.xml" value="0.33" />
@@ -98,6 +101,7 @@
         <entry key="app/src/main/res/layout/view_content_error.xml" value="0.20677083333333332" />
         <entry key="app/src/main/res/layout/view_content_status.xml" value="0.27717391304347827" />
         <entry key="appsupport/src/main/res/layout/activity_main.xml" value="0.24547101449275363" />
+        <entry key="appsupport/src/main/res/layout/popwindow_cirlceprogress_dailycoins.xml" value="0.33" />
         <entry key="appx/src/main/res/drawable/shape_red_radius.xml" value="0.1" />
         <entry key="appx/src/main/res/drawable/shape_round_ff.xml" value="0.1" />
         <entry key="appx/src/main/res/layout/activity_tab.xml" value="0.1" />
