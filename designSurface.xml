@@ -54,6 +54,7 @@
         <entry key="app/src/main/res/layout/fragment_gamequest.xml" value="0.33177083333333335" />
         <entry key="app/src/main/res/layout/fragment_gamerewardhistory.xml" value="0.5" />
         <entry key="app/src/main/res/layout/fragment_jptabbar.xml" value="0.259963768115942" />
+        <entry key="app/src/main/res/layout/fragment_play.xml" value="0.25729166666666664" />
         <entry key="app/src/main/res/layout/fragment_playing.xml" value="0.27445652173913043" />
         <entry key="app/src/main/res/layout/fragment_profile.xml" value="0.26510416666666664" />
         <entry key="app/src/main/res/layout/fragment_shop.xml" value="0.29393115942028986" />
