@@ -51,6 +51,7 @@
         <entry key="app/src/main/res/layout/dialog_verifyemail_cardid.xml" value="0.33" />
         <entry key="app/src/main/res/layout/fragment_edittext_style.xml" value="0.33" />
         <entry key="app/src/main/res/layout/fragment_game.xml" value="0.3307291666666667" />
+        <entry key="app/src/main/res/layout/fragment_gameplay.xml" value="0.221875" />
         <entry key="app/src/main/res/layout/fragment_gamequest.xml" value="0.33177083333333335" />
         <entry key="app/src/main/res/layout/fragment_gamerewardhistory.xml" value="0.5" />
         <entry key="app/src/main/res/layout/fragment_jptabbar.xml" value="0.259963768115942" />
