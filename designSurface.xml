@@ -22,7 +22,7 @@
         <entry key="app/src/main/res/drawable/shape_circle_white.xml" value="0.198828125" />
         <entry key="app/src/main/res/drawable/shape_circleprogress_unfoldview_rounbtn.xml" value="0.1453125" />
         <entry key="app/src/main/res/drawable/shape_circleprogress_unfoldview_rounbtn_graybg.xml" value="0.20208333333333334" />
-        <entry key="app/src/main/res/drawable/shape_edittext_round.xml" value="0.3223958333333333" />
+        <entry key="app/src/main/res/drawable/shape_edittext_round.xml" value="0.3572916666666667" />
         <entry key="app/src/main/res/drawable/shape_halfround.xml" value="0.20078125" />
         <entry key="app/src/main/res/drawable/shape_red_radius.xml" value="0.20078125" />
         <entry key="app/src/main/res/drawable/shape_rounbtn_graybg.xml" value="0.3223958333333333" />
@@ -38,6 +38,7 @@
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="app/src/main/res/layout/activity_playing.xml" value="0.20199275362318841" />
         <entry key="app/src/main/res/layout/activity_register.xml" value="0.24140625" />
+        <entry key="app/src/main/res/layout/activity_register_new.xml" value="0.33" />
         <entry key="app/src/main/res/layout/activity_reward.xml" value="0.189453125" />
         <entry key="app/src/main/res/layout/activity_setting.xml" value="0.5" />
         <entry key="app/src/main/res/layout/activity_shop.xml" value="0.18954918032786885" />
