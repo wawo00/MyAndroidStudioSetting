@@ -30,7 +30,7 @@
         <entry key="app/src/main/res/drawable/shape_rounbtn_lightpurplebg.xml" value="0.3015625" />
         <entry key="app/src/main/res/drawable/shape_round.xml" value="0.3223958333333333" />
         <entry key="app/src/main/res/drawable/shape_round_cementgray.xml" value="0.3515625" />
-        <entry key="app/src/main/res/drawable/shape_round_ff.xml" value="0.3223958333333333" />
+        <entry key="app/src/main/res/drawable/shape_round_ff.xml" value="0.3645833333333333" />
         <entry key="app/src/main/res/drawable/shape_round_historyexchange.xml" value="0.21354166666666666" />
         <entry key="app/src/main/res/drawable/shape_roundnotbottom_lightpurple.xml" value="0.27760416666666665" />
         <entry key="app/src/main/res/layout/activity_game_detail.xml" value="0.3020833333333333" />
@@ -87,7 +87,7 @@
         <entry key="app/src/main/res/layout/item_shopgift_amazon.xml" value="1.0" />
         <entry key="app/src/main/res/layout/item_shopgift_googleplay.xml" value="1.0" />
         <entry key="app/src/main/res/layout/item_shophistory.xml" value="0.67" />
-        <entry key="app/src/main/res/layout/item_tabvpflowlayout.xml" value="0.1984375" />
+        <entry key="app/src/main/res/layout/item_tabvpflowlayout.xml" value="0.2957427536231884" />
         <entry key="app/src/main/res/layout/item_three.xml" value="0.175" />
         <entry key="app/src/main/res/layout/item_two.xml" value="0.20662568306010928" />
         <entry key="app/src/main/res/layout/itme_one.xml" value="0.20662568306010928" />
@@ -112,11 +112,17 @@
         <entry key="appsupport/src/main/res/layout/popwindow_cirlceprogress_dailycoins.xml" value="0.33" />
         <entry key="appsupport/src/main/res/layout/view_dailyprogressview.xml" value="0.2453125" />
         <entry key="appsupport/src/main/res/layout/view_progress.xml" value="0.2453125" />
+        <entry key="appx/src/main/res/drawable/select_tag.xml" value="0.39427083333333335" />
         <entry key="appx/src/main/res/drawable/shape_red_radius.xml" value="0.1" />
-        <entry key="appx/src/main/res/drawable/shape_round_ff.xml" value="0.1" />
+        <entry key="appx/src/main/res/drawable/shape_round_ff.xml" value="0.39427083333333335" />
+        <entry key="appx/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="appx/src/main/res/layout/activity_tab.xml" value="0.1" />
-        <entry key="appx/src/main/res/layout/activity_tab_no_view_pager.xml" value="0.18439716312056736" />
+        <entry key="appx/src/main/res/layout/activity_tab_no_view_pager.xml" value="0.21354166666666666" />
         <entry key="appx/src/main/res/layout/item_msg.xml" value="0.1" />
+        <entry key="appx/src/main/res/layout/item_tab.xml" value="0.21354166666666666" />
+        <entry key="appx/src/main/res/layout/item_test.xml" value="0.21354166666666666" />
+        <entry key="appx/src/main/res/layout/item_text_width_match.xml" value="0.21354166666666666" />
+        <entry key="appx/src/main/res/layout/item_textview.xml" value="0.21354166666666666" />
         <entry key="demo/src/main/res/layout/activity_simple_video_view.xml" value="0.20199275362318841" />
         <entry key="demo/src/main/res/layout/item_two.xml" value="0.1" />
         <entry key="demo/src/main/res/layout/layout_rv_content.xml" value="0.1" />
