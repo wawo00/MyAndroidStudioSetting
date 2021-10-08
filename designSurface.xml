@@ -20,6 +20,7 @@
         <entry key="app/src/main/res/drawable/round_indicator_bg.xml" value="0.3223958333333333" />
         <entry key="app/src/main/res/drawable/selector_round_btn_green_to_gray.xml" value="0.3223958333333333" />
         <entry key="app/src/main/res/drawable/shape_circle_white.xml" value="0.198828125" />
+        <entry key="app/src/main/res/drawable/shape_circleprogress_unfoldview_rounbtn.xml" value="0.1453125" />
         <entry key="app/src/main/res/drawable/shape_circleprogress_unfoldview_rounbtn_graybg.xml" value="0.20208333333333334" />
         <entry key="app/src/main/res/drawable/shape_edittext_round.xml" value="0.3223958333333333" />
         <entry key="app/src/main/res/drawable/shape_halfround.xml" value="0.20078125" />
