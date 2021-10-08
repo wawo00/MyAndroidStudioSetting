@@ -33,7 +33,7 @@
         <entry key="app/src/main/res/drawable/shape_round_ff.xml" value="0.3223958333333333" />
         <entry key="app/src/main/res/drawable/shape_round_historyexchange.xml" value="0.21354166666666666" />
         <entry key="app/src/main/res/drawable/shape_roundnotbottom_lightpurple.xml" value="0.27760416666666665" />
-        <entry key="app/src/main/res/layout/activity_game_detail.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_game_detail.xml" value="0.3020833333333333" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.33" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="app/src/main/res/layout/activity_playing.xml" value="0.20199275362318841" />
@@ -58,7 +58,7 @@
         <entry key="app/src/main/res/layout/fragment_gamerewardhistory.xml" value="0.5" />
         <entry key="app/src/main/res/layout/fragment_jptabbar.xml" value="0.259963768115942" />
         <entry key="app/src/main/res/layout/fragment_play.xml" value="0.25729166666666664" />
-        <entry key="app/src/main/res/layout/fragment_playing.xml" value="0.27445652173913043" />
+        <entry key="app/src/main/res/layout/fragment_playing.xml" value="0.3020833333333333" />
         <entry key="app/src/main/res/layout/fragment_profile.xml" value="0.26510416666666664" />
         <entry key="app/src/main/res/layout/fragment_shop.xml" value="0.29393115942028986" />
         <entry key="app/src/main/res/layout/fragment_shopgift.xml" value="0.33" />
