@@ -37,7 +37,7 @@
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.33" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="app/src/main/res/layout/activity_playing.xml" value="0.20199275362318841" />
-        <entry key="app/src/main/res/layout/activity_register.xml" value="0.24140625" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.2957427536231884" />
         <entry key="app/src/main/res/layout/activity_register_new.xml" value="0.33" />
         <entry key="app/src/main/res/layout/activity_reward.xml" value="0.189453125" />
         <entry key="app/src/main/res/layout/activity_setting.xml" value="0.5" />
@@ -46,7 +46,7 @@
         <entry key="app/src/main/res/layout/app_gamedetial_top.xml" value="0.30572916666666666" />
         <entry key="app/src/main/res/layout/app_gamequest_title.xml" value="0.28894927536231885" />
         <entry key="app/src/main/res/layout/app_view_circleprogress.xml" value="0.5" />
-        <entry key="app/src/main/res/layout/dialog_changepwd.xml" value="0.19067028985507245" />
+        <entry key="app/src/main/res/layout/dialog_changepwd.xml" value="0.2957427536231884" />
         <entry key="app/src/main/res/layout/dialog_cirlceprogress_dailycoins.xml" value="0.5" />
         <entry key="app/src/main/res/layout/dialog_exchangecard.xml" value="0.2890625" />
         <entry key="app/src/main/res/layout/dialog_exchangehistory_cardid.xml" value="0.3590163934426229" />
@@ -106,6 +106,7 @@
         <entry key="app/src/main/res/layout/view_content_error.xml" value="0.20677083333333332" />
         <entry key="app/src/main/res/layout/view_content_status.xml" value="0.27717391304347827" />
         <entry key="app/src/main/res/layout/view_dailycoins_circleprogress.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/view_registe.xml" value="0.286231884057971" />
         <entry key="appsupport/src/main/res/drawable/ic_launcher_background.xml" value="0.28072916666666664" />
         <entry key="appsupport/src/main/res/drawable/shape_circle_white.xml" value="0.23229166666666667" />
         <entry key="appsupport/src/main/res/drawable/shape_rounbtn_graybg.xml" value="0.28072916666666664" />
