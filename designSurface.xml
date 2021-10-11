@@ -58,6 +58,7 @@
         <entry key="app/src/main/res/layout/fragment_ceshi.xml" value="0.19293478260869565" />
         <entry key="app/src/main/res/layout/fragment_edittext_style.xml" value="0.33" />
         <entry key="app/src/main/res/layout/fragment_game.xml" value="0.28177083333333336" />
+        <entry key="app/src/main/res/layout/fragment_gamemission.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_gameplay.xml" value="0.221875" />
         <entry key="app/src/main/res/layout/fragment_gamequest.xml" value="0.33177083333333335" />
         <entry key="app/src/main/res/layout/fragment_gamequestfinal.xml" value="0.21920289855072464" />
