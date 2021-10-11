@@ -30,7 +30,7 @@
         <entry key="app/src/main/res/drawable/shape_rounbtn_lightpurplebg.xml" value="0.3015625" />
         <entry key="app/src/main/res/drawable/shape_round.xml" value="0.3223958333333333" />
         <entry key="app/src/main/res/drawable/shape_round_cementgray.xml" value="0.3515625" />
-        <entry key="app/src/main/res/drawable/shape_round_ff.xml" value="0.3645833333333333" />
+        <entry key="app/src/main/res/drawable/shape_round_ff.xml" value="0.37864583333333335" />
         <entry key="app/src/main/res/drawable/shape_round_historyexchange.xml" value="0.21354166666666666" />
         <entry key="app/src/main/res/drawable/shape_roundnotbottom_lightpurple.xml" value="0.27760416666666665" />
         <entry key="app/src/main/res/layout/activity_game_detail.xml" value="0.3020833333333333" />
@@ -45,7 +45,7 @@
         <entry key="app/src/main/res/layout/activity_splash.xml" value="0.201171875" />
         <entry key="app/src/main/res/layout/app_gamedetial_top.xml" value="0.30572916666666666" />
         <entry key="app/src/main/res/layout/app_gamequest_title.xml" value="0.28894927536231885" />
-        <entry key="app/src/main/res/layout/app_title.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/app_title.xml" value="0.19519927536231885" />
         <entry key="app/src/main/res/layout/app_view_circleprogress.xml" value="0.5" />
         <entry key="app/src/main/res/layout/dialog_changepwd.xml" value="0.2957427536231884" />
         <entry key="app/src/main/res/layout/dialog_cirlceprogress_dailycoins.xml" value="0.5" />
