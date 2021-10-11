@@ -45,6 +45,7 @@
         <entry key="app/src/main/res/layout/activity_splash.xml" value="0.201171875" />
         <entry key="app/src/main/res/layout/app_gamedetial_top.xml" value="0.30572916666666666" />
         <entry key="app/src/main/res/layout/app_gamequest_title.xml" value="0.28894927536231885" />
+        <entry key="app/src/main/res/layout/app_title.xml" value="0.1" />
         <entry key="app/src/main/res/layout/app_view_circleprogress.xml" value="0.5" />
         <entry key="app/src/main/res/layout/dialog_changepwd.xml" value="0.2957427536231884" />
         <entry key="app/src/main/res/layout/dialog_cirlceprogress_dailycoins.xml" value="0.5" />
@@ -53,6 +54,7 @@
         <entry key="app/src/main/res/layout/dialog_retrieveaccount.xml" value="0.2598958333333333" />
         <entry key="app/src/main/res/layout/dialog_simple_content_copy.xml" value="0.2786458333333333" />
         <entry key="app/src/main/res/layout/dialog_verifyemail_cardid.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/fragment_ceshi.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_edittext_style.xml" value="0.33" />
         <entry key="app/src/main/res/layout/fragment_game.xml" value="0.28177083333333336" />
         <entry key="app/src/main/res/layout/fragment_gameplay.xml" value="0.221875" />
@@ -109,6 +111,7 @@
         <entry key="app/src/main/res/layout/view_content_status.xml" value="0.27717391304347827" />
         <entry key="app/src/main/res/layout/view_dailycoins_circleprogress.xml" value="0.5" />
         <entry key="app/src/main/res/layout/view_registe.xml" value="0.286231884057971" />
+        <entry key="app/src/main/res/layout/view_user_home_title.xml" value="0.1" />
         <entry key="appsupport/src/main/res/drawable/ic_launcher_background.xml" value="0.28072916666666664" />
         <entry key="appsupport/src/main/res/drawable/shape_circle_white.xml" value="0.23229166666666667" />
         <entry key="appsupport/src/main/res/drawable/shape_rounbtn_graybg.xml" value="0.28072916666666664" />
