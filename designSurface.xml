@@ -59,6 +59,7 @@
         <entry key="app/src/main/res/layout/fragment_game.xml" value="0.28177083333333336" />
         <entry key="app/src/main/res/layout/fragment_gameplay.xml" value="0.221875" />
         <entry key="app/src/main/res/layout/fragment_gamequest.xml" value="0.33177083333333335" />
+        <entry key="app/src/main/res/layout/fragment_gamequestfinal.xml" value="0.21920289855072464" />
         <entry key="app/src/main/res/layout/fragment_gamerewardhistory.xml" value="0.5" />
         <entry key="app/src/main/res/layout/fragment_jptabbar.xml" value="0.259963768115942" />
         <entry key="app/src/main/res/layout/fragment_play.xml" value="0.25729166666666664" />
@@ -112,7 +113,7 @@
         <entry key="app/src/main/res/layout/view_dailycoins_circleprogress.xml" value="0.5" />
         <entry key="app/src/main/res/layout/view_gamequest_title.xml" value="0.2125" />
         <entry key="app/src/main/res/layout/view_registe.xml" value="0.286231884057971" />
-        <entry key="app/src/main/res/layout/view_user_home_title.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/view_user_home_title.xml" value="0.18885869565217392" />
         <entry key="appsupport/src/main/res/drawable/ic_launcher_background.xml" value="0.28072916666666664" />
         <entry key="appsupport/src/main/res/drawable/shape_circle_white.xml" value="0.23229166666666667" />
         <entry key="appsupport/src/main/res/drawable/shape_rounbtn_graybg.xml" value="0.28072916666666664" />
