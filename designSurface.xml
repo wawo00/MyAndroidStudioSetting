@@ -54,6 +54,7 @@
         <entry key="app/src/main/res/layout/dialog_retrieveaccount.xml" value="0.2598958333333333" />
         <entry key="app/src/main/res/layout/dialog_simple_content_copy.xml" value="0.2786458333333333" />
         <entry key="app/src/main/res/layout/dialog_verifyemail_cardid.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/fragment_base.xml" value="0.24427083333333333" />
         <entry key="app/src/main/res/layout/fragment_ceshi.xml" value="0.19293478260869565" />
         <entry key="app/src/main/res/layout/fragment_edittext_style.xml" value="0.33" />
         <entry key="app/src/main/res/layout/fragment_game.xml" value="0.28177083333333336" />
