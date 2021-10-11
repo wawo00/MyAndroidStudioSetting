@@ -78,6 +78,7 @@
         <entry key="app/src/main/res/layout/header_profile_listview.xml" value="0.33645833333333336" />
         <entry key="app/src/main/res/layout/header_setting_listview.xml" value="0.5" />
         <entry key="app/src/main/res/layout/image_item.xml" value="0.18439716312056736" />
+        <entry key="app/src/main/res/layout/item_dynamic.xml" value="0.24094202898550723" />
         <entry key="app/src/main/res/layout/item_game.xml" value="0.2557291666666667" />
         <entry key="app/src/main/res/layout/item_gamequest_bigcoin.xml" value="0.24547101449275363" />
         <entry key="app/src/main/res/layout/item_gamequest_coming.xml" value="0.5" />
