@@ -111,6 +111,8 @@
         <entry key="app/src/main/res/layout/itme_treeview_levelone.xml" value="0.33" />
         <entry key="app/src/main/res/layout/itme_treeview_leveltwo.xml" value="0.33" />
         <entry key="app/src/main/res/layout/layout_content_view.xml" value="0.264945652173913" />
+        <entry key="app/src/main/res/layout/layout_custom_guide_case_bottom.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/layout_custom_guide_case_center.xml" value="0.20885416666666667" />
         <entry key="app/src/main/res/layout/layout_custom_guide_case_view.xml" value="0.25905797101449274" />
         <entry key="app/src/main/res/layout/menu_statelayout_fab.xml" value="0.21603260869565216" />
         <entry key="app/src/main/res/layout/popwindow_cirlceprogress_dailycoins.xml" value="0.67" />
