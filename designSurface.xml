@@ -40,7 +40,7 @@
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.33" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.24427083333333333" />
         <entry key="app/src/main/res/layout/activity_playing.xml" value="0.20199275362318841" />
-        <entry key="app/src/main/res/layout/activity_register.xml" value="0.2957427536231884" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.5" />
         <entry key="app/src/main/res/layout/activity_register_new.xml" value="0.33" />
         <entry key="app/src/main/res/layout/activity_reward.xml" value="0.189453125" />
         <entry key="app/src/main/res/layout/activity_setting.xml" value="0.5" />
