@@ -85,8 +85,8 @@
         <entry key="app/src/main/res/layout/image_item.xml" value="0.18439716312056736" />
         <entry key="app/src/main/res/layout/item_dynamic.xml" value="0.24094202898550723" />
         <entry key="app/src/main/res/layout/item_game.xml" value="0.2557291666666667" />
-        <entry key="app/src/main/res/layout/item_gamemission_default.xml" value="0.23645833333333333" />
-        <entry key="app/src/main/res/layout/item_gamemission_progress.xml" value="0.23645833333333333" />
+        <entry key="app/src/main/res/layout/item_gamemission_default.xml" value="0.27708333333333335" />
+        <entry key="app/src/main/res/layout/item_gamemission_progress.xml" value="0.27708333333333335" />
         <entry key="app/src/main/res/layout/item_gamequest_bigcoin.xml" value="0.24547101449275363" />
         <entry key="app/src/main/res/layout/item_gamequest_coming.xml" value="0.5" />
         <entry key="app/src/main/res/layout/item_gamequest_default.xml" value="0.24547101449275363" />
