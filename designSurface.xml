@@ -45,7 +45,7 @@
         <entry key="app/src/main/res/layout/activity_reward.xml" value="0.189453125" />
         <entry key="app/src/main/res/layout/activity_setting.xml" value="0.5" />
         <entry key="app/src/main/res/layout/activity_shop.xml" value="0.18954918032786885" />
-        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.20052083333333334" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.24114583333333334" />
         <entry key="app/src/main/res/layout/app_gamedetial_top.xml" value="0.30572916666666666" />
         <entry key="app/src/main/res/layout/app_gamequest_title.xml" value="0.28894927536231885" />
         <entry key="app/src/main/res/layout/app_title.xml" value="0.19519927536231885" />
@@ -65,7 +65,7 @@
         <entry key="app/src/main/res/layout/fragment_gamemission.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_gameplay.xml" value="0.221875" />
         <entry key="app/src/main/res/layout/fragment_gamequest.xml" value="0.33177083333333335" />
-        <entry key="app/src/main/res/layout/fragment_gamequestfinal.xml" value="0.21920289855072464" />
+        <entry key="app/src/main/res/layout/fragment_gamequestfinal.xml" value="0.24114583333333334" />
         <entry key="app/src/main/res/layout/fragment_gamerewardhistory.xml" value="0.5" />
         <entry key="app/src/main/res/layout/fragment_guidecase_view_style.xml" value="0.2703125" />
         <entry key="app/src/main/res/layout/fragment_jptabbar.xml" value="0.259963768115942" />
@@ -74,6 +74,7 @@
         <entry key="app/src/main/res/layout/fragment_profile.xml" value="0.26510416666666664" />
         <entry key="app/src/main/res/layout/fragment_shop.xml" value="0.29393115942028986" />
         <entry key="app/src/main/res/layout/fragment_shopgift.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/fragment_shophistory.xml" value="0.24114583333333334" />
         <entry key="app/src/main/res/layout/fragment_status_loader.xml" value="0.264945652173913" />
         <entry key="app/src/main/res/layout/fragment_xui_popup.xml" value="0.290625" />
         <entry key="app/src/main/res/layout/game_item.xml" value="0.25" />
@@ -86,6 +87,7 @@
         <entry key="app/src/main/res/layout/image_item.xml" value="0.18439716312056736" />
         <entry key="app/src/main/res/layout/item_dynamic.xml" value="0.24094202898550723" />
         <entry key="app/src/main/res/layout/item_game.xml" value="0.2557291666666667" />
+        <entry key="app/src/main/res/layout/item_gamemission_coming.xml" value="0.24114583333333334" />
         <entry key="app/src/main/res/layout/item_gamemission_default.xml" value="0.27708333333333335" />
         <entry key="app/src/main/res/layout/item_gamemission_progress.xml" value="0.27708333333333335" />
         <entry key="app/src/main/res/layout/item_gamequest_bigcoin.xml" value="0.24547101449275363" />
@@ -109,6 +111,7 @@
         <entry key="app/src/main/res/layout/itme_treeview_levelone.xml" value="0.33" />
         <entry key="app/src/main/res/layout/itme_treeview_leveltwo.xml" value="0.33" />
         <entry key="app/src/main/res/layout/layout_content_view.xml" value="0.264945652173913" />
+        <entry key="app/src/main/res/layout/layout_custom_guide_case_view.xml" value="0.25905797101449274" />
         <entry key="app/src/main/res/layout/menu_statelayout_fab.xml" value="0.21603260869565216" />
         <entry key="app/src/main/res/layout/popwindow_cirlceprogress_dailycoins.xml" value="0.67" />
         <entry key="app/src/main/res/layout/profile_listview_head.xml" value="0.247265625" />
@@ -117,11 +120,12 @@
         <entry key="app/src/main/res/layout/shopgift_googleplay_item.xml" value="0.25" />
         <entry key="app/src/main/res/layout/shophistory_item.xml" value="0.20677083333333332" />
         <entry key="app/src/main/res/layout/test_adapter_item_tag.xml" value="0.22" />
-        <entry key="app/src/main/res/layout/view_changepwd.xml" value="0.21739130434782608" />
+        <entry key="app/src/main/res/layout/view_changepwd.xml" value="0.24114583333333334" />
         <entry key="app/src/main/res/layout/view_content_error.xml" value="0.20677083333333332" />
         <entry key="app/src/main/res/layout/view_content_status.xml" value="0.27717391304347827" />
         <entry key="app/src/main/res/layout/view_dailycoins_circleprogress.xml" value="0.5" />
         <entry key="app/src/main/res/layout/view_gamequest_title.xml" value="0.2125" />
+        <entry key="app/src/main/res/layout/view_mission_title.xml" value="0.24114583333333334" />
         <entry key="app/src/main/res/layout/view_registe.xml" value="0.286231884057971" />
         <entry key="app/src/main/res/layout/view_user_home_title.xml" value="0.18885869565217392" />
         <entry key="appsupport/src/main/res/drawable/ic_launcher_background.xml" value="0.28072916666666664" />
