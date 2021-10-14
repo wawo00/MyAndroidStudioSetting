@@ -82,11 +82,11 @@
         <entry key="app/src/main/res/layout/gamequest_item_coming.xml" value="0.33" />
         <entry key="app/src/main/res/layout/gamequest_item_default.xml" value="0.5" />
         <entry key="app/src/main/res/layout/gamequest_item_progress.xml" value="0.33177083333333335" />
-        <entry key="app/src/main/res/layout/header_profile_listview.xml" value="0.33645833333333336" />
+        <entry key="app/src/main/res/layout/header_profile_listview.xml" value="0.67" />
         <entry key="app/src/main/res/layout/header_setting_listview.xml" value="0.5" />
         <entry key="app/src/main/res/layout/image_item.xml" value="0.18439716312056736" />
         <entry key="app/src/main/res/layout/item_dynamic.xml" value="0.24094202898550723" />
-        <entry key="app/src/main/res/layout/item_game.xml" value="0.2557291666666667" />
+        <entry key="app/src/main/res/layout/item_game.xml" value="0.5" />
         <entry key="app/src/main/res/layout/item_gamemission_coming.xml" value="0.24114583333333334" />
         <entry key="app/src/main/res/layout/item_gamemission_default.xml" value="0.27708333333333335" />
         <entry key="app/src/main/res/layout/item_gamemission_progress.xml" value="0.27708333333333335" />
@@ -134,7 +134,7 @@
         <entry key="appsupport/src/main/res/drawable/ic_launcher_background.xml" value="0.28072916666666664" />
         <entry key="appsupport/src/main/res/drawable/shape_circle_white.xml" value="0.23229166666666667" />
         <entry key="appsupport/src/main/res/drawable/shape_rounbtn_graybg.xml" value="0.28072916666666664" />
-        <entry key="appsupport/src/main/res/layout/activity_main.xml" value="0.22708333333333333" />
+        <entry key="appsupport/src/main/res/layout/activity_main.xml" value="1.25" />
         <entry key="appsupport/src/main/res/layout/popwindow_cirlceprogress_dailycoins.xml" value="0.33" />
         <entry key="appsupport/src/main/res/layout/view_dailyprogressview.xml" value="0.2453125" />
         <entry key="appsupport/src/main/res/layout/view_progress.xml" value="0.2453125" />
