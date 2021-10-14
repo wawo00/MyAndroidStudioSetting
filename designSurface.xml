@@ -138,6 +138,7 @@
         <entry key="appsupport/src/main/res/layout/popwindow_cirlceprogress_dailycoins.xml" value="0.33" />
         <entry key="appsupport/src/main/res/layout/view_dailyprogressview.xml" value="0.2453125" />
         <entry key="appsupport/src/main/res/layout/view_progress.xml" value="0.2453125" />
+        <entry key="appsupport/src/main/res/layout/weight_cointextview.xml" value="0.24592391304347827" />
         <entry key="appx/src/main/res/drawable/select_tag.xml" value="0.39427083333333335" />
         <entry key="appx/src/main/res/drawable/shape_red_radius.xml" value="0.1" />
         <entry key="appx/src/main/res/drawable/shape_round_ff.xml" value="0.39427083333333335" />
