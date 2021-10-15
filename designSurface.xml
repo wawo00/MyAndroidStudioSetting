@@ -142,6 +142,7 @@
         <entry key="appsupport/src/main/res/drawable/ic_launcher_background.xml" value="0.28072916666666664" />
         <entry key="appsupport/src/main/res/drawable/shape_circle_white.xml" value="0.23229166666666667" />
         <entry key="appsupport/src/main/res/drawable/shape_rounbtn_graybg.xml" value="0.28072916666666664" />
+        <entry key="appsupport/src/main/res/layout-800x480/activity_main.xml" value="0.75" />
         <entry key="appsupport/src/main/res/layout/activity_main.xml" value="0.2994791666666667" />
         <entry key="appsupport/src/main/res/layout/popwindow_cirlceprogress_dailycoins.xml" value="0.33" />
         <entry key="appsupport/src/main/res/layout/view_dailyprogressview.xml" value="0.2453125" />
