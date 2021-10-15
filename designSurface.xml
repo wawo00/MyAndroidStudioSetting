@@ -42,8 +42,8 @@
         <entry key="app/src/main/res/layout-800x480/view_dailycoins_circleprogress.xml" value="0.67" />
         <entry key="app/src/main/res/layout-800x480/view_playnow.xml" value="1.0" />
         <entry key="app/src/main/res/layout/activity_game_detail.xml" value="0.32201405152224827" />
-        <entry key="app/src/main/res/layout/activity_login.xml" value="0.35643115942028986" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.24427083333333333" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.16290983606557377" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.11407103825136612" />
         <entry key="app/src/main/res/layout/activity_playing.xml" value="0.20199275362318841" />
         <entry key="app/src/main/res/layout/activity_register.xml" value="0.33" />
         <entry key="app/src/main/res/layout/activity_register_new.xml" value="0.33" />
@@ -71,7 +71,7 @@
         <entry key="app/src/main/res/layout/fragment_gameplay.xml" value="0.221875" />
         <entry key="app/src/main/res/layout/fragment_gamequest.xml" value="0.33177083333333335" />
         <entry key="app/src/main/res/layout/fragment_gamequestfinal.xml" value="0.24114583333333334" />
-        <entry key="app/src/main/res/layout/fragment_gamerewardhistory.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/fragment_gamerewardhistory.xml" value="0.4732142857142857" />
         <entry key="app/src/main/res/layout/fragment_guidecase_view_style.xml" value="0.2703125" />
         <entry key="app/src/main/res/layout/fragment_jptabbar.xml" value="0.259963768115942" />
         <entry key="app/src/main/res/layout/fragment_play.xml" value="0.25729166666666664" />
@@ -115,8 +115,8 @@
         <entry key="app/src/main/res/layout/item_three.xml" value="0.175" />
         <entry key="app/src/main/res/layout/item_two.xml" value="0.20662568306010928" />
         <entry key="app/src/main/res/layout/itme_one.xml" value="0.20662568306010928" />
-        <entry key="app/src/main/res/layout/itme_treeview_levelone.xml" value="0.67" />
-        <entry key="app/src/main/res/layout/itme_treeview_leveltwo.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/itme_treeview_levelone.xml" value="0.4732142857142857" />
+        <entry key="app/src/main/res/layout/itme_treeview_leveltwo.xml" value="0.4732142857142857" />
         <entry key="app/src/main/res/layout/layout_content_view.xml" value="0.264945652173913" />
         <entry key="app/src/main/res/layout/layout_custom_guide_case_bottom.xml" value="0.5128968253968254" />
         <entry key="app/src/main/res/layout/layout_custom_guide_case_center.xml" value="0.1" />
