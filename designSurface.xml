@@ -23,7 +23,7 @@
         <entry key="app/src/main/res/drawable/round_indicator_bg.xml" value="0.3223958333333333" />
         <entry key="app/src/main/res/drawable/selector_round_btn_green_to_gray.xml" value="0.3223958333333333" />
         <entry key="app/src/main/res/drawable/shape_circle_white.xml" value="0.198828125" />
-        <entry key="app/src/main/res/drawable/shape_circleprogress_unfoldview_rounbtn.xml" value="0.5225" />
+        <entry key="app/src/main/res/drawable/shape_circleprogress_unfoldview_rounbtn.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/shape_circleprogress_unfoldview_rounbtn_graybg.xml" value="0.20208333333333334" />
         <entry key="app/src/main/res/drawable/shape_edittext_round.xml" value="0.3572916666666667" />
         <entry key="app/src/main/res/drawable/shape_halfround.xml" value="0.20078125" />
@@ -91,11 +91,11 @@
         <entry key="app/src/main/res/layout/header_setting_listview.xml" value="0.5" />
         <entry key="app/src/main/res/layout/image_item.xml" value="0.18439716312056736" />
         <entry key="app/src/main/res/layout/item_dynamic.xml" value="0.24094202898550723" />
-        <entry key="app/src/main/res/layout/item_game.xml" value="0.5" />
-        <entry key="app/src/main/res/layout/item_gamemission_coming.xml" value="0.48625" />
-        <entry key="app/src/main/res/layout/item_gamemission_default.xml" value="0.3472222222222222" />
+        <entry key="app/src/main/res/layout/item_game.xml" value="0.67" />
+        <entry key="app/src/main/res/layout/item_gamemission_coming.xml" value="0.26697892271662765" />
+        <entry key="app/src/main/res/layout/item_gamemission_default.xml" value="0.1" />
         <entry key="app/src/main/res/layout/item_gamemission_empty.xml" value="0.24094202898550723" />
-        <entry key="app/src/main/res/layout/item_gamemission_holder.xml" value="0.296875" />
+        <entry key="app/src/main/res/layout/item_gamemission_holder.xml" value="0.21875" />
         <entry key="app/src/main/res/layout/item_gamemission_progress.xml" value="0.2687353629976581" />
         <entry key="app/src/main/res/layout/item_gamequest_bigcoin.xml" value="0.24547101449275363" />
         <entry key="app/src/main/res/layout/item_gamequest_coming.xml" value="0.5" />
@@ -119,7 +119,7 @@
         <entry key="app/src/main/res/layout/itme_treeview_leveltwo.xml" value="0.33" />
         <entry key="app/src/main/res/layout/layout_content_view.xml" value="0.264945652173913" />
         <entry key="app/src/main/res/layout/layout_custom_guide_case_bottom.xml" value="0.5128968253968254" />
-        <entry key="app/src/main/res/layout/layout_custom_guide_case_center.xml" value="0.2341485507246377" />
+        <entry key="app/src/main/res/layout/layout_custom_guide_case_center.xml" value="0.1" />
         <entry key="app/src/main/res/layout/layout_custom_guide_case_view.xml" value="0.25905797101449274" />
         <entry key="app/src/main/res/layout/menu_statelayout_fab.xml" value="0.21603260869565216" />
         <entry key="app/src/main/res/layout/popwindow_cirlceprogress_dailycoins.xml" value="0.67" />
