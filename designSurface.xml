@@ -42,8 +42,8 @@
         <entry key="app/src/main/res/layout-800x480/view_dailycoins_circleprogress.xml" value="0.67" />
         <entry key="app/src/main/res/layout-800x480/view_playnow.xml" value="1.0" />
         <entry key="app/src/main/res/layout/activity_game_detail.xml" value="0.32201405152224827" />
-        <entry key="app/src/main/res/layout/activity_login.xml" value="0.16290983606557377" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.11407103825136612" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.28625" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.28625" />
         <entry key="app/src/main/res/layout/activity_playing.xml" value="0.20199275362318841" />
         <entry key="app/src/main/res/layout/activity_register.xml" value="0.33" />
         <entry key="app/src/main/res/layout/activity_register_new.xml" value="0.33" />
@@ -60,9 +60,11 @@
         <entry key="app/src/main/res/layout/dialog_exchangecard.xml" value="0.2890625" />
         <entry key="app/src/main/res/layout/dialog_exchangehistory_cardid.xml" value="0.3590163934426229" />
         <entry key="app/src/main/res/layout/dialog_retrieveaccount.xml" value="0.2598958333333333" />
-        <entry key="app/src/main/res/layout/dialog_simple_content_copy.xml" value="0.2786458333333333" />
+        <entry key="app/src/main/res/layout/dialog_simple_content_copy.xml" value="0.28625" />
+        <entry key="app/src/main/res/layout/dialog_verifyemail.xml" value="0.28625" />
         <entry key="app/src/main/res/layout/dialog_verifyemail_cardid.xml" value="0.33" />
         <entry key="app/src/main/res/layout/footer_gamequest_coming.xml" value="0.2989583333333333" />
+        <entry key="app/src/main/res/layout/footer_setting_listview.xml" value="0.28625" />
         <entry key="app/src/main/res/layout/fragment_base.xml" value="0.24427083333333333" />
         <entry key="app/src/main/res/layout/fragment_ceshi.xml" value="0.19293478260869565" />
         <entry key="app/src/main/res/layout/fragment_edittext_style.xml" value="0.33" />
