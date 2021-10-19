@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Module 'Grebate.app'" />
+    <option name="defaultScopeName" value="Module 'Grebate.app'" />
+    <option name="SEARCH_SCOPE" value="Module 'Grebate.app'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
