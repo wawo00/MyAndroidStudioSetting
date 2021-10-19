@@ -89,7 +89,7 @@
         <entry key="app/src/main/res/layout/gamequest_item_coming.xml" value="0.33" />
         <entry key="app/src/main/res/layout/gamequest_item_default.xml" value="0.5" />
         <entry key="app/src/main/res/layout/gamequest_item_progress.xml" value="0.33177083333333335" />
-        <entry key="app/src/main/res/layout/header_profile_listview.xml" value="0.6543560606060606" />
+        <entry key="app/src/main/res/layout/header_profile_listview.xml" value="0.8" />
         <entry key="app/src/main/res/layout/header_setting_listview.xml" value="0.5" />
         <entry key="app/src/main/res/layout/image_item.xml" value="0.18439716312056736" />
         <entry key="app/src/main/res/layout/item_dynamic.xml" value="0.24094202898550723" />
