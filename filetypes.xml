@@ -5,6 +5,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="asc" type="Native" />
       <mapping ext="md" type="PLAIN_TEXT" />
+      <mapping ext="pepk" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
