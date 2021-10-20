@@ -6,6 +6,8 @@
         <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="../../../.gradle/caches/transforms-2/files-2.1/5085e58c3048bdec25ad94cbb6c66e09/jetified-XUI-1.1.8/res/drawable/xui_ic_expand_arrow_down.xml" value="0.24270833333333333" />
         <entry key="../../../.gradle/caches/transforms-2/files-2.1/5085e58c3048bdec25ad94cbb6c66e09/jetified-XUI-1.1.8/res/drawable/xui_ic_expand_arrow_up.xml" value="0.24270833333333333" />
+        <entry key="../../../.gradle/caches/transforms-2/files-2.1/5085e58c3048bdec25ad94cbb6c66e09/jetified-XUI-1.1.8/res/layout/xmd_layout_dialog_basic.xml" value="0.39625" />
+        <entry key="../../../.gradle/caches/transforms-2/files-2.1/5085e58c3048bdec25ad94cbb6c66e09/jetified-XUI-1.1.8/res/layout/xmd_layout_dialog_custom.xml" value="0.560251798561151" />
         <entry key="../../../.gradle/caches/transforms-2/files-2.1/5085e58c3048bdec25ad94cbb6c66e09/jetified-XUI-1.1.8/res/layout/xui_layout_expand_group_item.xml" value="0.23645833333333333" />
         <entry key="../../../Library/Android/sdk/platforms/android-29/data/res/layout/simple_list_item_2.xml" value="0.264945652173913" />
         <entry key="../../../Library/Android/sdk/platforms/android-29/data/res/layout/test_list_item.xml" value="0.11875" />
