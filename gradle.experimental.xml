@@ -1,0 +1,5 @@
+<application>
+  <component name="GradleExperimentalSettings">
+    <option name="TRACE_GRADLE_SYNC" value="true" />
+  </component>
+</application>
