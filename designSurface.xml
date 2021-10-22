@@ -61,9 +61,10 @@
         <entry key="app/src/main/res/layout/dialog_cirlceprogress_dailycoins.xml" value="0.5" />
         <entry key="app/src/main/res/layout/dialog_exchangecard.xml" value="0.2890625" />
         <entry key="app/src/main/res/layout/dialog_exchangehistory_cardid.xml" value="0.3590163934426229" />
-        <entry key="app/src/main/res/layout/dialog_retrieveaccount.xml" value="0.2598958333333333" />
+        <entry key="app/src/main/res/layout/dialog_input_verifyemail.xml" value="0.6716269841269841" />
+        <entry key="app/src/main/res/layout/dialog_retrieveaccount.xml" value="0.46625" />
         <entry key="app/src/main/res/layout/dialog_simple_content_copy.xml" value="0.28625" />
-        <entry key="app/src/main/res/layout/dialog_verifyemail.xml" value="0.28625" />
+        <entry key="app/src/main/res/layout/dialog_verifyemail.xml" value="0.46625" />
         <entry key="app/src/main/res/layout/dialog_verifyemail_cardid.xml" value="0.33" />
         <entry key="app/src/main/res/layout/footer_gamequest_coming.xml" value="0.2989583333333333" />
         <entry key="app/src/main/res/layout/footer_setting_listview.xml" value="0.28625" />
