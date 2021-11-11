@@ -103,12 +103,12 @@
         <entry key="app/src/main/res/layout/image_item.xml" value="0.18439716312056736" />
         <entry key="app/src/main/res/layout/item_dynamic.xml" value="0.24094202898550723" />
         <entry key="app/src/main/res/layout/item_game.xml" value="0.19957264957264959" />
-        <entry key="app/src/main/res/layout/item_gamemission_bigcoin.xml" value="0.2148224043715847" />
-        <entry key="app/src/main/res/layout/item_gamemission_coming.xml" value="0.26697892271662765" />
-        <entry key="app/src/main/res/layout/item_gamemission_default.xml" value="0.22692307692307692" />
-        <entry key="app/src/main/res/layout/item_gamemission_empty.xml" value="0.24094202898550723" />
-        <entry key="app/src/main/res/layout/item_gamemission_holder.xml" value="0.21875" />
-        <entry key="app/src/main/res/layout/item_gamemission_progress.xml" value="0.2687353629976581" />
+        <entry key="app/src/main/res/layout/item_gamemission_bigcoin.xml" value="0.35703125" />
+        <entry key="app/src/main/res/layout/item_gamemission_coming.xml" value="0.35703125" />
+        <entry key="app/src/main/res/layout/item_gamemission_default.xml" value="0.35703125" />
+        <entry key="app/src/main/res/layout/item_gamemission_empty.xml" value="0.35703125" />
+        <entry key="app/src/main/res/layout/item_gamemission_holder.xml" value="0.35703125" />
+        <entry key="app/src/main/res/layout/item_gamemission_progress.xml" value="1.0" />
         <entry key="app/src/main/res/layout/item_gamequest_bigcoin.xml" value="0.24547101449275363" />
         <entry key="app/src/main/res/layout/item_gamequest_coming.xml" value="0.5" />
         <entry key="app/src/main/res/layout/item_gamequest_default.xml" value="0.24547101449275363" />
