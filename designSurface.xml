@@ -190,7 +190,7 @@
         <entry key="sdk/src/main/res/drawable/normal_text_white_to_gray.xml" value="0.1" />
         <entry key="sdk/src/main/res/layout/aas_activity_protocol.xml" value="0.1703125" />
         <entry key="sdk/src/main/res/layout/aas_activity_user_manager_layout.xml" value="0.1" />
-        <entry key="sdk/src/main/res/layout/aas_fragment_user_account_manager.xml" value="0.19114583333333332" />
+        <entry key="sdk/src/main/res/layout/aas_fragment_user_account_manager.xml" value="0.3609375" />
         <entry key="sdk/src/main/res/layout/aas_fragment_user_manager.xml" value="0.22" />
       </map>
     </option>
