@@ -50,7 +50,7 @@
         <entry key="app/src/main/res/layout-800x480/view_playnow.xml" value="1.0" />
         <entry key="app/src/main/res/layout/activity_game_detail.xml" value="0.4338592233009709" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.28625" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.28625" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.37916666666666665" />
         <entry key="app/src/main/res/layout/activity_playing.xml" value="0.20199275362318841" />
         <entry key="app/src/main/res/layout/activity_register.xml" value="0.49625" />
         <entry key="app/src/main/res/layout/activity_register_new.xml" value="0.33" />
@@ -156,7 +156,7 @@
         <entry key="appsupport/src/main/res/drawable/shape_circle_white.xml" value="0.23229166666666667" />
         <entry key="appsupport/src/main/res/drawable/shape_rounbtn_graybg.xml" value="0.28072916666666664" />
         <entry key="appsupport/src/main/res/layout-800x480/activity_main.xml" value="0.75" />
-        <entry key="appsupport/src/main/res/layout/activity_first.xml" value="0.24270833333333333" />
+        <entry key="appsupport/src/main/res/layout/activity_first.xml" value="0.24010416666666667" />
         <entry key="appsupport/src/main/res/layout/activity_justactvity.xml" value="0.35959715639810425" />
         <entry key="appsupport/src/main/res/layout/activity_main.xml" value="0.2667572463768116" />
         <entry key="appsupport/src/main/res/layout/activity_second.xml" value="0.6014705882352941" />
