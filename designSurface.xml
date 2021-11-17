@@ -156,14 +156,14 @@
         <entry key="appsupport/src/main/res/drawable/shape_circle_white.xml" value="0.23229166666666667" />
         <entry key="appsupport/src/main/res/drawable/shape_rounbtn_graybg.xml" value="0.28072916666666664" />
         <entry key="appsupport/src/main/res/layout-800x480/activity_main.xml" value="0.75" />
-        <entry key="appsupport/src/main/res/layout/activity_first.xml" value="0.2694746376811594" />
+        <entry key="appsupport/src/main/res/layout/activity_first.xml" value="0.2667572463768116" />
         <entry key="appsupport/src/main/res/layout/activity_justactvity.xml" value="0.35959715639810425" />
-        <entry key="appsupport/src/main/res/layout/activity_main.xml" value="0.148828125" />
+        <entry key="appsupport/src/main/res/layout/activity_main.xml" value="0.2667572463768116" />
         <entry key="appsupport/src/main/res/layout/activity_second.xml" value="0.6014705882352941" />
         <entry key="appsupport/src/main/res/layout/activity_second2.xml" value="0.1" />
         <entry key="appsupport/src/main/res/layout/activity_vdeo_view.xml" value="0.48333333333333334" />
         <entry key="appsupport/src/main/res/layout/activity_videoview.xml" value="0.1" />
-        <entry key="appsupport/src/main/res/layout/activity_videoview_jz.xml" value="0.7689393939393939" />
+        <entry key="appsupport/src/main/res/layout/activity_videoview_jz.xml" value="0.1" />
         <entry key="appsupport/src/main/res/layout/popwindow_cirlceprogress_dailycoins.xml" value="0.4405339805825243" />
         <entry key="appsupport/src/main/res/layout/view_dailyprogressview.xml" value="0.2453125" />
         <entry key="appsupport/src/main/res/layout/view_progress.xml" value="0.2453125" />
