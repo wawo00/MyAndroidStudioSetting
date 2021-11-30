@@ -1,0 +1,94 @@
+<application>
+  <component name="MetricsReloaded">
+    <layout>
+      <profile name="Complexity metrics">
+        <metrics_layout>
+          <tables>
+            <table category="Method">
+              <table_layout>
+                <column_order>
+                  <c>method</c>
+                  <c>CogC</c>
+                  <c>ev(G)</c>
+                  <c>iv(G)</c>
+                  <c>v(G)</c>
+                </column_order>
+                <column_widths>
+                  <w>484</w>
+                  <w>75</w>
+                  <w>75</w>
+                  <w>75</w>
+                  <w>75</w>
+                </column_widths>
+              </table_layout>
+            </table>
+            <table category="Class">
+              <table_layout>
+                <column_order>
+                  <c>class</c>
+                  <c>OCavg</c>
+                  <c>OCmax</c>
+                  <c>WMC</c>
+                </column_order>
+                <column_widths>
+                  <w>300</w>
+                  <w>75</w>
+                  <w>75</w>
+                  <w>75</w>
+                </column_widths>
+              </table_layout>
+            </table>
+            <table category="Interface">
+              <table_layout />
+            </table>
+            <table category="Package">
+              <table_layout>
+                <column_order>
+                  <c>package</c>
+                  <c>v(G)avg</c>
+                  <c>v(G)tot</c>
+                </column_order>
+                <column_widths>
+                  <w>140</w>
+                  <w>75</w>
+                  <w>75</w>
+                </column_widths>
+              </table_layout>
+            </table>
+            <table category="Module">
+              <table_layout>
+                <column_order>
+                  <c>module</c>
+                  <c>v(G)avg</c>
+                  <c>v(G)tot</c>
+                </column_order>
+                <column_widths>
+                  <w>148</w>
+                  <w>75</w>
+                  <w>75</w>
+                </column_widths>
+              </table_layout>
+            </table>
+            <table category="FileType">
+              <table_layout />
+            </table>
+            <table category="Project">
+              <table_layout>
+                <column_order>
+                  <c>project</c>
+                  <c>v(G)avg</c>
+                  <c>v(G)tot</c>
+                </column_order>
+                <column_widths>
+                  <w>105</w>
+                  <w>75</w>
+                  <w>75</w>
+                </column_widths>
+              </table_layout>
+            </table>
+          </tables>
+        </metrics_layout>
+      </profile>
+    </layout>
+  </component>
+</application>
