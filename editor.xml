@@ -13,4 +13,7 @@
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="RENAME_VARIABLES_INPLACE" value="false" />
   </component>
+  <component name="JetEditorOptions">
+    <option name="donTShowConversionDialog" value="true" />
+  </component>
 </application>
