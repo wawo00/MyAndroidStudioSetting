@@ -13,6 +13,19 @@
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="RENAME_VARIABLES_INPLACE" value="false" />
   </component>
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value="KotlinLambdasHintsProvider" />
+    <settingsMapElement>
+      <kotlin.KotlinReferencesTypeHintsProvider>
+        <Settings>
+          <option name="functionReturnType" value="true" />
+          <option name="localVariableType" value="true" />
+          <option name="parameterType" value="true" />
+          <option name="propertyType" value="true" />
+        </Settings>
+      </kotlin.KotlinReferencesTypeHintsProvider>
+    </settingsMapElement>
+  </component>
   <component name="JetEditorOptions">
     <option name="donTShowConversionDialog" value="true" />
   </component>
