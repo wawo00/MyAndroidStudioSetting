@@ -7,6 +7,7 @@
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="pepk" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="db" type="SQL" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="sql" approved="true" type="SQLite" />
