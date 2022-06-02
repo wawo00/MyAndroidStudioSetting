@@ -25,6 +25,18 @@
         <target value="Android 11.0" />
         <api value="30" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="HA1GWKWC" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-06-02T10:32:40.840281Z" />
+        <name value="Lenovo Lenovo TB-J716F" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
