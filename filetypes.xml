@@ -4,6 +4,7 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="asc" type="Native" />
+      <mapping ext="lua" type="PLAIN_TEXT" />
       <mapping ext="pepk" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="db" type="SQLite" />
