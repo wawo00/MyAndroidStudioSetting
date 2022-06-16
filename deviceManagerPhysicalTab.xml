@@ -5,10 +5,20 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="8XV7N15A20004608" />
+          </Key>
+        </key>
+        <name value="Huawei Nexus 6P" />
+        <target value="Android 8.0" />
+        <api value="26" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="37ccdac" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-06-07T10:56:05.447585Z" />
         <name value="OnePlus LE2100" />
         <target value="Android 11.0" />
         <api value="30" />
@@ -20,7 +30,6 @@
             <value value="adb-37ccdac-71RVb4._adb-tls-connect._tcp." />
           </Key>
         </key>
-        <lastOnlineTime value="2022-05-06T07:10:14.166377Z" />
         <name value="OnePlus LE2100" />
         <target value="Android 11.0" />
         <api value="30" />
@@ -32,22 +41,9 @@
             <value value="HA1GWKWC" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-06-02T10:32:40.840281Z" />
         <name value="Lenovo Lenovo TB-J716F" />
         <target value="Android 11.0" />
         <api value="30" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="8XV7N15A20004608" />
-          </Key>
-        </key>
-        <lastOnlineTime value="2022-06-07T11:06:25.277772Z" />
-        <name value="Huawei Nexus 6P" />
-        <target value="Android 8.0" />
-        <api value="26" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
