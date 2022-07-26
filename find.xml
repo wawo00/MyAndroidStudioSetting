@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../app [MoreAndroid.app]'" />
-    <option name="defaultScopeName" value="Directory '.../app [MoreAndroid.app]'" />
-    <option name="SEARCH_SCOPE" value="Directory '.../app [MoreAndroid.app]'" />
+    <option name="customScope" value="Project 'MoreAndroid'" />
+    <option name="defaultScopeName" value="Project 'MoreAndroid'" />
+    <option name="SEARCH_SCOPE" value="Project 'MoreAndroid'" />
     <option name="FILE_MASK" value="*.java" />
     <mask>*.css</mask>
     <mask>*.html</mask>
