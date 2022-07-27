@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'MoreAndroid'" />
-    <option name="defaultScopeName" value="Project 'MoreAndroid'" />
-    <option name="SEARCH_SCOPE" value="Project 'MoreAndroid'" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.cpp" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -11,5 +11,6 @@
     <mask>*.properties</mask>
     <mask>*.lua</mask>
     <mask>*.java</mask>
+    <mask>*.cpp</mask>
   </component>
 </application>
