@@ -5,6 +5,18 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="8XV7N15A20004608" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-07-26T11:58:02.616044Z" />
+        <name value="Huawei Nexus 6P" />
+        <target value="Android 8.0" />
+        <api value="26" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="37ccdac" />
           </Key>
         </key>
@@ -36,18 +48,6 @@
         <name value="Lenovo Lenovo TB-J716F" />
         <target value="Android 11.0" />
         <api value="30" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="8XV7N15A20004608" />
-          </Key>
-        </key>
-        <lastOnlineTime value="2022-06-16T08:12:17.356257Z" />
-        <name value="Huawei Nexus 6P" />
-        <target value="Android 8.0" />
-        <api value="26" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
