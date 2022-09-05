@@ -8,8 +8,8 @@
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
-    <mask>*.lua</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.lua</mask>
   </component>
 </application>
