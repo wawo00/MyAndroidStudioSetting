@@ -49,6 +49,18 @@
         <target value="Android 11.0" />
         <api value="30" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="G001NW06130706A5" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-09-06T03:18:12.844014Z" />
+        <name value="Amazon KFTRPWI" />
+        <target value="Android 9.0" />
+        <api value="28" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
