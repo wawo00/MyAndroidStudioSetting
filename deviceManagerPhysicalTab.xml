@@ -8,7 +8,7 @@
             <value value="8XV7N15A20004608" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-09-05T08:53:36.816845Z" />
+        <lastOnlineTime value="2022-09-06T01:54:34.857099Z" />
         <name value="Huawei Nexus 6P" />
         <target value="Android 8.0" />
         <api value="26" />
@@ -20,10 +20,10 @@
             <value value="37ccdac" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-06-07T10:56:05.447585Z" />
+        <lastOnlineTime value="2022-09-05T14:15:57.023246Z" />
         <name value="OnePlus LE2100" />
-        <target value="Android 11.0" />
-        <api value="30" />
+        <target value="Android 12.0" />
+        <api value="31" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
