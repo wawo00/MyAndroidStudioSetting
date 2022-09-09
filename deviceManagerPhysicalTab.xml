@@ -8,7 +8,7 @@
             <value value="8XV7N15A20004608" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-09-06T06:42:12.543654Z" />
+        <lastOnlineTime value="2022-09-07T09:56:26.627513Z" />
         <name value="Huawei Nexus 6P" />
         <target value="Android 8.0" />
         <api value="26" />
@@ -20,7 +20,7 @@
             <value value="37ccdac" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-09-06T02:31:49.408770Z" />
+        <lastOnlineTime value="2022-09-07T13:51:55.279805Z" />
         <name value="OnePlus LE2100" />
         <target value="Android 12.0" />
         <api value="31" />
@@ -58,6 +58,18 @@
         </key>
         <lastOnlineTime value="2022-09-06T03:18:12.844014Z" />
         <name value="Amazon KFTRPWI" />
+        <target value="Android 9.0" />
+        <api value="28" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="FAW4EQEQGETKSKSG" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-09-07T09:49:26.567660Z" />
+        <name value="OPPO PDBM00" />
         <target value="Android 9.0" />
         <api value="28" />
       </PhysicalDevice>
