@@ -10,7 +10,7 @@
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.xml</mask>
-    <mask>*.lua</mask>
     <mask>*.java</mask>
+    <mask>*.lua</mask>
   </component>
 </application>
