@@ -5,6 +5,18 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="37ccdac" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-10-20T10:58:43.255162Z" />
+        <name value="OnePlus LE2100" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="8XV7N15A20004608" />
           </Key>
         </key>
@@ -12,18 +24,6 @@
         <name value="Huawei Nexus 6P" />
         <target value="Android 8.0" />
         <api value="26" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="37ccdac" />
-          </Key>
-        </key>
-        <lastOnlineTime value="2022-10-13T11:53:40.748888Z" />
-        <name value="OnePlus LE2100" />
-        <target value="Android 12.0" />
-        <api value="31" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
