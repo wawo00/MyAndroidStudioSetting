@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../lib_max [AdsMainSdk.lib_max]'" />
-    <option name="defaultScopeName" value="Directory '.../lib_max [AdsMainSdk.lib_max]'" />
-    <option name="SEARCH_SCOPE" value="Directory '.../lib_max [AdsMainSdk.lib_max]'" />
+    <option name="customScope" value="Directory '.../lib_baseInterface [AdsMainSdk.lib_baseInterface]'" />
+    <option name="defaultScopeName" value="Directory '.../lib_baseInterface [AdsMainSdk.lib_baseInterface]'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../lib_baseInterface [AdsMainSdk.lib_baseInterface]'" />
     <option name="FILE_MASK" value="*.java" />
     <mask>*.css</mask>
     <mask>*.html</mask>
