@@ -7,6 +7,7 @@
       <mapping ext="asc" type="Native" />
       <mapping ext="pepk" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="plantuml" type="PlantUML file" />
       <mapping ext="db" type="SQLite" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="lua" approved="true" type="PLAIN_TEXT" />
