@@ -20,11 +20,6 @@
     <option name="logAnalyzerSwitch" value="false" />
     <option name="usedKitsMap">
       <map>
-        <entry key="268e0d26">
-          <value>
-            <list />
-          </value>
-        </entry>
         <entry key="301a0be3">
           <value>
             <list />
@@ -161,6 +156,11 @@
           </value>
         </entry>
         <entry key="9010acdc">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="a45d7637">
           <value>
             <list />
           </value>
