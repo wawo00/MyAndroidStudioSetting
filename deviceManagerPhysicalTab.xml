@@ -5,6 +5,18 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="LMV405UAf46e74ae" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-11-16T07:00:32.620353Z" />
+        <name value="LGE LM-V405" />
+        <target value="Android 9.0" />
+        <api value="28" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="8XV7N15A20004608" />
           </Key>
         </key>
