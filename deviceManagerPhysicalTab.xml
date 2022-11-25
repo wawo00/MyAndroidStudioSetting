@@ -5,10 +5,22 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="LMV405UAf46e74ae" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-11-16T07:00:32.620353Z" />
+        <name value="LGE LM-V405" />
+        <target value="Android 9.0" />
+        <api value="28" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="8XV7N15A20004608" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-11-10T08:21:25.250573Z" />
+        <lastOnlineTime value="2022-11-10T08:30:22.628124Z" />
         <name value="Huawei Nexus 6P" />
         <target value="Android 8.0" />
         <api value="26" />
@@ -80,7 +92,7 @@
             <value value="216a0f6a" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-11-09T07:39:37.329460Z" />
+        <lastOnlineTime value="2022-11-10T09:24:24.745020Z" />
         <name value="Xiaomi M2007J3SC" />
         <target value="Android 10.0" />
         <api value="29" />
