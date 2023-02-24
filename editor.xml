@@ -12,7 +12,7 @@
     <option name="FONT_BOLD_SUB_FAMILY" value="Bold" />
   </component>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="" />
+    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
     <option name="RENAME_VARIABLES_INPLACE" value="false" />
     <option name="BIDI_TEXT_DIRECTION" value="LTR" />
   </component>
