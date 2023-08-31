@@ -8,7 +8,9 @@
       <mapping ext="asc" type="Native" />
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="pepk" type="PLAIN_TEXT" />
+      <mapping ext="pb" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="flat" type="PLAIN_TEXT" />
       <mapping ext="db" type="SQLite" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="lua" approved="true" type="PLAIN_TEXT" />
