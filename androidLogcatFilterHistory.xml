@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="mssdk_demo" />
+    <option name="mostRecentlyUsed" value="com.gusdk.demo.app" />
     <option name="nonFavorites">
       <list>
+        <option value="com.gusdk.demo.app" />
         <option value="package:mine" />
         <option value="mssdk_demo" />
         <option value="gaid" />
