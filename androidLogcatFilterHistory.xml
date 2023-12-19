@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="error " />
     <option name="nonFavorites">
       <list>
+        <option value="error " />
         <option value="package:mine " />
         <option value="package:mine UMP_DEMO" />
         <option value="AppLovin MAX" />
