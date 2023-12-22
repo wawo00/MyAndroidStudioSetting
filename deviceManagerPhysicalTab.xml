@@ -8,9 +8,10 @@
             <value value="95LJGQ6XQGFET8V4" />
           </Key>
         </key>
+        <lastOnlineTime value="2023-12-22T09:31:10.137589800Z" />
         <name value="OnePlus PHP110" />
-        <target value="Android Tiramisu" />
-        <api value="androidversion:33:null:null:true" />
+        <target value="Android API 33" />
+        <api value="33" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
