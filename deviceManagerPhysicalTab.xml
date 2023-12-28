@@ -9,8 +9,8 @@
           </Key>
         </key>
         <name value="OnePlus PHP110" />
-        <target value="Android Tiramisu" />
-        <api value="androidversion:33:null:null:true" />
+        <target value="Android API 33" />
+        <api value="33" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
