@@ -8,7 +8,6 @@
             <value value="95LJGQ6XQGFET8V4" />
           </Key>
         </key>
-        <lastOnlineTime value="2023-11-17T11:11:13.166936600Z" />
         <name value="OnePlus PHP110" />
         <target value="Android API 33" />
         <api value="33" />
@@ -20,10 +19,9 @@
             <value value="LMV405UAf46e74ae" />
           </Key>
         </key>
-        <lastOnlineTime value="2023-05-05T10:29:00.665356900Z" />
         <name value="LGE LM-V405" />
         <target value="Android 9.0" />
-        <api value="28" />
+        <api value="androidversion:28:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -34,7 +32,7 @@
         </key>
         <name value="OnePlus LE2100" />
         <target value="Android API 33" />
-        <api value="33" />
+        <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -45,7 +43,7 @@
         </key>
         <name value="Huawei Nexus 6P" />
         <target value="Android 8.0" />
-        <api value="26" />
+        <api value="androidversion:26:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -56,7 +54,7 @@
         </key>
         <name value="OnePlus LE2100" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -67,7 +65,7 @@
         </key>
         <name value="Lenovo Lenovo TB-J716F" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -78,7 +76,7 @@
         </key>
         <name value="Amazon KFTRPWI" />
         <target value="Android 9.0" />
-        <api value="28" />
+        <api value="androidversion:28:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -89,7 +87,7 @@
         </key>
         <name value="OPPO PDBM00" />
         <target value="Android 9.0" />
-        <api value="28" />
+        <api value="androidversion:28:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -100,7 +98,7 @@
         </key>
         <name value="Xiaomi M2007J3SC" />
         <target value="Android 10.0" />
-        <api value="29" />
+        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
