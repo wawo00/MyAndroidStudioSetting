@@ -5,23 +5,23 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="95LJGQ6XQGFET8V4" />
-          </Key>
-        </key>
-        <name value="OnePlus PHP110" />
-        <target value="Android API 33" />
-        <api value="33" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="LMV405UAf46e74ae" />
           </Key>
         </key>
         <name value="LGE LM-V405" />
         <target value="Android 9.0" />
         <api value="androidversion:28:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="95LJGQ6XQGFET8V4" />
+          </Key>
+        </key>
+        <name value="OnePlus PHP110" />
+        <target value="Android API 33" />
+        <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
