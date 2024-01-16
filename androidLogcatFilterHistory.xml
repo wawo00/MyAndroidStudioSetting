@@ -1,12 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
         <option value="package:mine" />
+        <option value="package:mine " />
+        <option value="package:mine &lt;ALY Android&gt;_4116  " />
         <option value="mssdk_demo" />
         <option value="com.gusdk.demo.app" />
         <option value="error " />
-        <option value="package:mine " />
         <option value="package:mine UMP_DEMO" />
         <option value="AppLovin MAX" />
         <option value="gaid" />
