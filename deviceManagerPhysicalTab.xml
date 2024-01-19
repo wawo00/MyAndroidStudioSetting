@@ -8,7 +8,6 @@
             <value value="LMV405UAf46e74ae" />
           </Key>
         </key>
-        <lastOnlineTime value="2024-01-19T02:35:55.739074400Z" />
         <name value="LGE LM-V405" />
         <target value="Android 9.0" />
         <api value="28" />
@@ -21,8 +20,8 @@
           </Key>
         </key>
         <name value="OnePlus PHP110" />
-        <target value="Android Tiramisu" />
-        <api value="androidversion:33:null:null:true" />
+        <target value="Android API 33" />
+        <api value="33" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
