@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="ROY_BaseHelper" />
     <option name="nonFavorites">
       <list>
+        <option value="ROY_BaseHelper" />
         <option value="package:mine " />
         <option value="package:com.gusdk.demo.app " />
-        <option value="ROY_BaseHelper" />
         <option value="&lt;ALY Android&gt;_4116  " />
         <option value="package:mine" />
         <option value="package:mine &lt;ALY Android&gt;_4116  " />
