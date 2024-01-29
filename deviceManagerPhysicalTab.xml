@@ -8,9 +8,8 @@
             <value value="LMV405UAf46e74ae" />
           </Key>
         </key>
-        <name value="LGE LM-V405" />
-        <target value="Android 9.0" />
-        <api value="androidversion:28:null:null:true" />
+        <name value="Device" />
+        <target value="Android 1.0" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
