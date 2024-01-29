@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="ROY_BaseHelper" />
+    <option name="mostRecentlyUsed" value="MsSDK_4.0.0.5" />
     <option name="nonFavorites">
       <list>
+        <option value="MsSDK_4.0.0.5" />
         <option value="package:mine" />
         <option value="ROY_BaseHelper" />
         <option value="package:mine " />
