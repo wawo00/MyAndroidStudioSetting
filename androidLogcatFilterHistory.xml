@@ -1,11 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="MsSDK_4.0.0.6 " />
+    <option name="mostRecentlyUsed" value="MsSdk_demo" />
     <option name="nonFavorites">
       <list>
-        <option value="MsSDK_4.0.0.6 " />
-        <option value="mssdk" />
         <option value="MsSdk_demo" />
+        <option value="mssdk" />
+        <option value="MsSDK_4." />
+        <option value="MsSDK_4.0.0.5 " />
+        <option value="MsSDK_4.0.0.6 " />
         <option value="MsSDK_4.0.0.6" />
         <option value="package:mine" />
         <option value="package:com.gusdk.demo.app" />
@@ -21,7 +23,6 @@
         <option value="package:mine UMP_DEMO" />
         <option value="AppLovin MAX" />
         <option value="gaid" />
-        <option value="package:com.gusdk.demo.app MsSdk_demo" />
       </list>
     </option>
   </component>
