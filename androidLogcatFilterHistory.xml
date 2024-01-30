@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="MsSdk_demo" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
-        <option value="MsSdk_demo" />
         <option value="mssdk" />
+        <option value="MsSdk_demo" />
         <option value="MsSDK_4." />
         <option value="MsSDK_4.0.0.5 " />
         <option value="MsSDK_4.0.0.6 " />
