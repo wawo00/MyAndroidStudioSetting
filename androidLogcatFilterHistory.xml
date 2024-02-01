@@ -1,9 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:com.gusdk.demo.app " />
     <option name="nonFavorites">
       <list>
         <option value="package:com.gusdk.demo.app " />
+        <option value="package:com." />
         <option value="package:" />
         <option value="admob_demo" />
         <option value="package:com.gusdk.demo.app" />
@@ -22,7 +23,6 @@
         <option value="mssdk_demo" />
         <option value="com.gusdk.demo.app" />
         <option value="error " />
-        <option value="package:mine UMP_DEMO" />
       </list>
     </option>
   </component>
