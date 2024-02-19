@@ -1,15 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="&lt;ALY Android&gt;_4202 " />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="&lt;ALY Android&gt;_4202 " />
         <option value="package: com.gusdk.demo.app " />
         <option value="package:com.gusdk.demo.app" />
         <option value="package:mine" />
         <option value="package:com.gusdk.demo.app " />
         <option value="roy_ironsource" />
-        <option value="package:mine " />
         <option value="package:com." />
         <option value="package:" />
         <option value="admob_demo" />
