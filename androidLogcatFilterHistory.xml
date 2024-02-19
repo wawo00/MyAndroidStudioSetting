@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.gusdk.demo.app" />
+    <option name="mostRecentlyUsed" value="&lt;ALY Android&gt;_4202 " />
     <option name="nonFavorites">
       <list>
+        <option value="&lt;ALY Android&gt;_4202 " />
         <option value="package: com.gusdk.demo.app " />
         <option value="package:com.gusdk.demo.app" />
         <option value="package:mine" />
@@ -22,7 +23,6 @@
         <option value="ROY_BaseHelper" />
         <option value="&lt;ALY Android&gt;_4116  " />
         <option value="package:mine &lt;ALY Android&gt;_4116  " />
-        <option value="mssdk_demo" />
       </list>
     </option>
   </component>
