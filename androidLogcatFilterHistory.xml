@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="AppsFlyer_6.13.0" />
     <option name="nonFavorites">
       <list>
+        <option value="AppsFlyer_6.13.0" />
+        <option value="appsf" />
+        <option value="package: " />
+        <option value="package:mine " />
+        <option value="package:" />
+        <option value="pkg:mine" />
+        <option value="]" />
+        <option value="AppsFlyer_6.13.0 " />
         <option value="package:mine" />
         <option value="AppsFlyer_6.9.0" />
-        <option value="pkg:mine" />
         <option value="AppLovinSdk" />
         <option value="applovin" />
         <option value="Apps" />
         <option value="Appsf" />
         <option value="appsflyer" />
-        <option value="package:mine " />
         <option value="&lt;ALY Android&gt;_4202 " />
         <option value="package: com.gusdk.demo.app " />
         <option value="package:com.gusdk.demo.app" />
         <option value="package:com.gusdk.demo.app " />
         <option value="roy_ironsource" />
-        <option value="package:com." />
-        <option value="package:" />
-        <option value="admob_demo" />
-        <option value="mssdk" />
-        <option value="MsSdk_demo" />
-        <option value="MsSDK_4." />
       </list>
     </option>
   </component>
