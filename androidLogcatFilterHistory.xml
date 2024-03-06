@@ -1,15 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="appsflyer" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="appsflyer" />
         <option value="package:com.huge.slots.casino.vegas.android.avidly" />
         <option value="double win" />
         <option value="AppsFlyer_" />
         <option value="AppsFlyer_6.13.0 " />
         <option value="apps" />
-        <option value="package:mine " />
         <option value="AppsFlyer_6.10.0" />
         <option value="package:" />
         <option value="package:com.jackpot.fever.slots.android" />
