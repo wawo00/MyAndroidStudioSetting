@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="com.huge.slots.casino.vegas.android.avidly" />
     <option name="nonFavorites">
       <list>
+        <option value="com.huge.slots.casino.vegas.android.avidly" />
+        <option value="package" />
         <option value="package:mine " />
         <option value="appsflyer" />
         <option value="package:com.huge.slots.casino.vegas.android.avidly" />
@@ -21,8 +23,6 @@
         <option value="]" />
         <option value="package:mine" />
         <option value="AppsFlyer_6.9.0" />
-        <option value="AppLovinSdk" />
-        <option value="applovin" />
       </list>
     </option>
   </component>
