@@ -1,8 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="apps" />
     <option name="nonFavorites">
       <list>
+        <option value="apps" />
+        <option value="appsfl" />
+        <option value="package:com.puzzle.matchscapes.gp2" />
+        <option value="package:" />
+        <option value="message" />
+        <option value="AppsFlyer_6.13.0 " />
+        <option value="appsf" />
         <option value="com.huge.slots.casino.vegas.android.avidly" />
         <option value="package" />
         <option value="package:mine " />
@@ -10,19 +17,12 @@
         <option value="package:com.huge.slots.casino.vegas.android.avidly" />
         <option value="double win" />
         <option value="AppsFlyer_" />
-        <option value="AppsFlyer_6.13.0 " />
-        <option value="apps" />
         <option value="AppsFlyer_6.10.0" />
-        <option value="package:" />
         <option value="package:com.jackpot.fever.slots.android" />
         <option value="package: " />
         <option value="AppsFlyer_6.13.0" />
         <option value="package:com.grandcashslots.free.gp" />
-        <option value="appsf" />
         <option value="pkg:mine" />
-        <option value="]" />
-        <option value="package:mine" />
-        <option value="AppsFlyer_6.9.0" />
       </list>
     </option>
   </component>
