@@ -4,6 +4,8 @@
     <option name="nonFavorites">
       <list>
         <option value="package:com.fishing.billionaire.android" />
+        <option value="package:com.fishing.billionaire.android " />
+        <option value="package:mine " />
         <option value="package:com.gusdk.demo.app " />
         <option value="package:mine" />
         <option value="apps" />
@@ -15,14 +17,12 @@
         <option value="appsf" />
         <option value="com.huge.slots.casino.vegas.android.avidly" />
         <option value="package" />
-        <option value="package:mine " />
         <option value="appsflyer" />
         <option value="package:com.huge.slots.casino.vegas.android.avidly" />
         <option value="double win" />
         <option value="AppsFlyer_" />
         <option value="AppsFlyer_6.10.0" />
         <option value="package:com.jackpot.fever.slots.android" />
-        <option value="package: " />
       </list>
     </option>
   </component>
