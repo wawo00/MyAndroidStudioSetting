@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:com.gusdk.demo.app " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.gusdk.demo.app " />
         <option value="package:com.fishing.billionaire.android" />
         <option value="package:com.fishing.billionaire.android " />
         <option value="package:mine " />
-        <option value="package:com.gusdk.demo.app " />
         <option value="package:mine" />
         <option value="apps" />
         <option value="appsfl" />
