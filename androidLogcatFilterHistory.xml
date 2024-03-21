@@ -1,16 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.citrusjoy.trojan " />
+    <option name="mostRecentlyUsed" value="&lt;ALY Android&gt;_4203 " />
     <option name="nonFavorites">
       <list>
+        <option value="&lt;ALY Android&gt;_4203 " />
+        <option value="package:com.gusdk.demo.app " />
+        <option value="package:" />
         <option value="package:com.citrusjoy.trojan " />
         <option value="AppsFlyer_6.13.0" />
-        <option value="package:" />
         <option value="&lt;ALY Android&gt;_4202" />
         <option value="4202" />
         <option value="aly" />
         <option value="package:mine " />
-        <option value="package:com.gusdk.demo.app " />
         <option value="package:com.fishing.billionaire.android" />
         <option value="package:com.fishing.billionaire.android " />
         <option value="package:mine" />
@@ -22,7 +23,6 @@
         <option value="appsf" />
         <option value="com.huge.slots.casino.vegas.android.avidly" />
         <option value="package" />
-        <option value="appsflyer" />
       </list>
     </option>
   </component>
