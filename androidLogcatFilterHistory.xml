@@ -1,8 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine " />
         <option value="package:com.gusdk.demo.app " />
         <option value="&lt;ALY Android&gt;_4203 " />
@@ -14,7 +14,6 @@
         <option value="aly" />
         <option value="package:com.fishing.billionaire.android" />
         <option value="package:com.fishing.billionaire.android " />
-        <option value="package:mine" />
         <option value="apps" />
         <option value="appsfl" />
         <option value="package:com.puzzle.matchscapes.gp2" />
