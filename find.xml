@@ -11,6 +11,7 @@
     <mask>*.xml</mask>
     <mask>*.lua</mask>
     <mask>er</mask>
+    <mask>java</mask>
     <mask>*.java</mask>
   </component>
 </application>
