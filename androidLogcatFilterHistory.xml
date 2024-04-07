@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value=" " />
     <option name="nonFavorites">
       <list>
+        <option value=" " />
         <option value="package:mine " />
         <option value="package:com.Merge.Tower.Defense.Idle.Adventure.gp" />
         <option value="package:" />
@@ -22,7 +23,6 @@
         <option value="appsfl" />
         <option value="package:com.puzzle.matchscapes.gp2" />
         <option value="message" />
-        <option value="AppsFlyer_6.13.0 " />
       </list>
     </option>
   </component>
