@@ -1,11 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:com.Merge.Tower.Defense.Idle.Adventure.gp" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.Merge.Tower.Defense.Idle.Adventure.gp" />
+        <option value="package:" />
         <option value="package:mine" />
         <option value="appsf" />
-        <option value="package:" />
         <option value="package:mine " />
         <option value="fatal" />
         <option value="package:com.gusdk.demo.app " />
@@ -22,7 +23,6 @@
         <option value="package:com.puzzle.matchscapes.gp2" />
         <option value="message" />
         <option value="AppsFlyer_6.13.0 " />
-        <option value="com.huge.slots.casino.vegas.android.avidly" />
       </list>
     </option>
   </component>
