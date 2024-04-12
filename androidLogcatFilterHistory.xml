@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.grandcashslots.free.gp " />
+    <option name="mostRecentlyUsed" value="AppsFlyer_6.13.0" />
     <option name="nonFavorites">
       <list>
+        <option value="AppsFlyer_6.13.0" />
         <option value="package:com.grandcashslots.free.gp " />
         <option value="package:mine " />
         <option value="UserMessagingPlatform" />
@@ -15,7 +16,6 @@
         <option value="package:com.gusdk.demo.app " />
         <option value="&lt;ALY Android&gt;_4203 " />
         <option value="package:com.citrusjoy.trojan " />
-        <option value="AppsFlyer_6.13.0" />
         <option value="&lt;ALY Android&gt;_4202" />
         <option value="4202" />
         <option value="aly" />
