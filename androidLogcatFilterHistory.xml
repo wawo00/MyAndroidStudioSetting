@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:com.yulong.sgame.gp" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.yulong.sgame.gp" />
         <option value="package:com.jackpot.fever.slots.android " />
         <option value="package:" />
         <option value="AppsFlyer_6.13.0" />
@@ -22,7 +23,6 @@
         <option value="aly" />
         <option value="package:com.fishing.billionaire.android" />
         <option value="package:com.fishing.billionaire.android " />
-        <option value="apps" />
       </list>
     </option>
   </component>
