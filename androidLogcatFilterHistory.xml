@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="&lt;ALY Android&gt;_4204" />
     <option name="nonFavorites">
       <list>
+        <option value="&lt;ALY Android&gt;_4204" />
         <option value="package:com.yulong.sgame.gp" />
         <option value="package:com.jackpot.fever.slots.android " />
         <option value="package:" />
@@ -22,7 +23,6 @@
         <option value="4202" />
         <option value="aly" />
         <option value="package:com.fishing.billionaire.android" />
-        <option value="package:com.fishing.billionaire.android " />
       </list>
     </option>
   </component>
