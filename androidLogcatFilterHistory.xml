@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.anotherworld.android " />
+    <option name="mostRecentlyUsed" value="package:com.bingo.scape.android.free " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.bingo.scape.android.free " />
         <option value="package:com.anotherworld.android " />
         <option value=" package:com.anotherworld.android " />
         <option value="&lt;ALY Android&gt;_4204" />
@@ -22,7 +23,6 @@
         <option value="&lt;ALY Android&gt;_4203 " />
         <option value="package:com.citrusjoy.trojan " />
         <option value="&lt;ALY Android&gt;_4202" />
-        <option value="4202" />
       </list>
     </option>
   </component>
