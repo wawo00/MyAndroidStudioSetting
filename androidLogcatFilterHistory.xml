@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:com.zymobile.match.tile.decor.gp" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.zymobile.match.tile.decor.gp" />
+        <option value="package:com.zymobile.match.tile.decor.gp " />
         <option value="package:mine" />
         <option value="package:com.anotherworld.android " />
         <option value="package:com.bingo.scape.android.free " />
@@ -20,8 +23,6 @@
         <option value="fatal" />
         <option value="package:com.gusdk.demo.app " />
         <option value="&lt;ALY Android&gt;_4203 " />
-        <option value="package:com.citrusjoy.trojan " />
-        <option value="&lt;ALY Android&gt;_4202" />
       </list>
     </option>
   </component>
