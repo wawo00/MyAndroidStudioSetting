@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:com.tencent.tmgp.sgame " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.tencent.tmgp.sgame " />
         <option value="package:com.zymobile.match.tile.decor.gp" />
         <option value="package:com.zymobile.match.tile.decor.gp " />
         <option value="package:mine" />
@@ -22,7 +23,6 @@
         <option value="appsf" />
         <option value="fatal" />
         <option value="package:com.gusdk.demo.app " />
-        <option value="&lt;ALY Android&gt;_4203 " />
       </list>
     </option>
   </component>
