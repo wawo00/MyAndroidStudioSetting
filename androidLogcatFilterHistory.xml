@@ -1,15 +1,18 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.tencent.tmgp.sgame " />
+    <option name="mostRecentlyUsed" value="package:com.gusdk.demo.app " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.gusdk.demo.app " />
+        <option value="package:com.gusdk.demo.app" />
+        <option value="package:mine" />
+        <option value=" package:com.gusdk.demo.app " />
+        <option value=" package:com.anotherworld.android " />
         <option value="package:com.tencent.tmgp.sgame " />
         <option value="package:com.zymobile.match.tile.decor.gp" />
         <option value="package:com.zymobile.match.tile.decor.gp " />
-        <option value="package:mine" />
         <option value="package:com.anotherworld.android " />
         <option value="package:com.bingo.scape.android.free " />
-        <option value=" package:com.anotherworld.android " />
         <option value="&lt;ALY Android&gt;_4204" />
         <option value="package:com.yulong.sgame.gp" />
         <option value="package:com.jackpot.fever.slots.android " />
@@ -20,9 +23,6 @@
         <option value="UserMessagingPlatform" />
         <option value=" " />
         <option value="package:com.Merge.Tower.Defense.Idle.Adventure.gp" />
-        <option value="appsf" />
-        <option value="fatal" />
-        <option value="package:com.gusdk.demo.app " />
       </list>
     </option>
   </component>
