@@ -3,6 +3,8 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:" />
+        <option value="package:com.cattle.clash.idle.gp" />
         <option value="package:com.gusdk.demo.app" />
         <option value="package:com.gusdk.demo.app " />
         <option value="package:com.fishing.billionaire.android" />
@@ -13,7 +15,6 @@
         <option value="onVideoAdReward" />
         <option value=" &lt;ALY Android&gt;_4116  " />
         <option value="ALY" />
-        <option value="package:" />
         <option value="package:mine" />
         <option value=" package:com.gusdk.demo.app " />
         <option value=" package:com.anotherworld.android " />
@@ -22,7 +23,6 @@
         <option value="package:com.zymobile.match.tile.decor.gp " />
         <option value="package:com.anotherworld.android " />
         <option value="package:com.bingo.scape.android.free " />
-        <option value="&lt;ALY Android&gt;_4204" />
       </list>
     </option>
   </component>
