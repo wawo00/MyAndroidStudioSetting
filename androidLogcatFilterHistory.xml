@@ -1,8 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine " />
         <option value="facebook" />
         <option value="package:com.yulong.sgame.gp " />
@@ -18,7 +18,6 @@
         <option value="onVideoAdReward" />
         <option value=" &lt;ALY Android&gt;_4116  " />
         <option value="ALY" />
-        <option value="package:mine" />
         <option value=" package:com.gusdk.demo.app " />
         <option value=" package:com.anotherworld.android " />
         <option value="package:com.tencent.tmgp.sgame " />
