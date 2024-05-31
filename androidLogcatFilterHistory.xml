@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="think" />
     <option name="nonFavorites">
       <list>
+        <option value="think" />
         <option value="package:mine" />
         <option value="package:mine " />
         <option value="facebook" />
@@ -21,7 +23,6 @@
         <option value=" package:com.gusdk.demo.app " />
         <option value=" package:com.anotherworld.android " />
         <option value="package:com.tencent.tmgp.sgame " />
-        <option value="package:com.zymobile.match.tile.decor.gp" />
       </list>
     </option>
   </component>
