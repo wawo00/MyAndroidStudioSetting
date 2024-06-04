@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="think" />
+    <option name="mostRecentlyUsed" value="package:com.gusdk.demo.app" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.gusdk.demo.app" />
         <option value="think" />
         <option value="package:mine" />
         <option value="package:mine " />
@@ -11,7 +12,6 @@
         <option value="package:com.yulong.sgame.gp" />
         <option value="package:" />
         <option value="package:com.cattle.clash.idle.gp" />
-        <option value="package:com.gusdk.demo.app" />
         <option value="package:com.gusdk.demo.app " />
         <option value="package:com.fishing.billionaire.android" />
         <option value="package:com.gusdk.demo.ap" />
