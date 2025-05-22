@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.twincat.whispers" />
+    <option name="mostRecentlyUsed" value="package:com.gusdk.demo.app" />
     <option name="nonFavorites">
       <list>
-        <option value="package:com.twincat.whispers" />
+        <option value="package:com.gusdk.demo.app" />
+        <option value="think" />
+        <option value="package:mine" />
         <option value="package:mine " />
+        <option value="facebook" />
+        <option value="package:com.yulong.sgame.gp " />
+        <option value="package:com.yulong.sgame.gp" />
+        <option value="package:" />
+        <option value="package:com.cattle.clash.idle.gp" />
+        <option value="package:com.gusdk.demo.app " />
+        <option value="package:com.fishing.billionaire.android" />
+        <option value="package:com.gusdk.demo.ap" />
+        <option value="package:com.twincat.whispers" />
         <option value="mssdk_demo" />
         <option value="onVideoAdReward" />
         <option value=" &lt;ALY Android&gt;_4116  " />
         <option value="ALY" />
-        <option value="package:" />
-        <option value="package:com.gusdk.demo.app " />
-        <option value="package:com.gusdk.demo.app" />
-        <option value="package:mine" />
         <option value=" package:com.gusdk.demo.app " />
         <option value=" package:com.anotherworld.android " />
         <option value="package:com.tencent.tmgp.sgame " />
-        <option value="package:com.zymobile.match.tile.decor.gp" />
-        <option value="package:com.zymobile.match.tile.decor.gp " />
-        <option value="package:com.anotherworld.android " />
-        <option value="package:com.bingo.scape.android.free " />
-        <option value="&lt;ALY Android&gt;_4204" />
-        <option value="package:com.yulong.sgame.gp" />
-        <option value="package:com.jackpot.fever.slots.android " />
       </list>
     </option>
   </component>
